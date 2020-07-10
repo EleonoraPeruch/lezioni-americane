@@ -25,3 +25,7 @@ seg[ana^="#cogn"] {
 #commands {
   display: block;
 }
+
+code {
+  font-size: 10pt; 
+}
