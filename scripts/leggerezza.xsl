@@ -22,7 +22,7 @@
       <body>
         <div class="container">
           <div class="row">
-            <div class="col-sm-" style="margin-top: 3em"> <!-- FIX THE POSITION OF THIS DIV, NOT SCROLLING WITH THE TEXT -->
+            <div class="col-sm-" style="margin-top: 3em">
               <!-- <div id="openseadragon" style="width: 800px; height: 600px;"></div>
               <div id="mirador" style="width: 400px; height: 600px;"></div> -->
               <div id="commands">
