@@ -1,4 +1,3 @@
-// https://www.techcartnow.com/javascript-highlight-all-replace-all-occurrence-of-a-string-or-array-of-strings/
 var histper, interper, cognper, crossper, otherper;
 var Common = {
     init: function () {
@@ -31,45 +30,6 @@ var Common = {
           }
       },
 
-    /*setView: function () {
-        if ($(this).val() == 'highlight') {
-            $("#highlight").show();
-            $("#cross").hide();
-            $("#hist").hide();
-            $("#interp").hide();
-            $("#cogn").hide();
-        }
-        else if ($(this).val() == 'cross') {
-            $("#highlight").hide();
-            $("#cross").show();
-            $("#hist").hide();
-            $("#interp").hide();
-            $("#cogn").hide();
-        }
-        else if ($(this).val() == 'hist') {
-            $("#highlight").hide();
-            $("#cross").hide();
-            $("#hist").show();
-            $("#interp").hide();
-            $("#cogn").hide();
-        }
-        else if ($(this).val() == 'interp') {
-            $("#highlight").hide();
-            $("#cross").hide();
-            $("#hist").hide();
-            $("#interp").show();
-            $("#cogn").hide();
-        }
-        else: {
-            $("#highlight").hide();
-            $("#cross").hide();
-            $("#hist").hide();
-            $("#interp").hide();
-            $("#cogn").show();
-        }
-    },*/
-
-
     highlightExample: function () {
         $("#highlight").hide();
         var searchvalues = $.trim($("#searchText").val()).split(" ");
@@ -92,22 +52,8 @@ var Common = {
     // highlight all words with attribute ana="#interp"
     interpExample: function () {
         $("#interp").css("color", "#646A90");
-        //var searchvalues = document.querySelectorAll(($.trim($("p")).split(" ")); //"seg[ana^='interp']"
-        var searchvalues = $("[ana='#interp']").css("background-color", "#646A90"); //$([ana=#interp])
-        //var initialString = $("#content").html();
-        //var response = Common.interpAll(initialString, searchvalues);
-        //$("#content").html(response);
+        var searchvalues = $("[ana='#interp']").css("background-color", "#646A90");
     },
-
-    /*interpAll: function (initialString, searchvalues) {
-        var values = searchvalues.join("|");
-        //var values = document.querySelectorAll(searchvalues.join("|"));
-        if ($.trim(values) != '') {
-           return initialString.replace(new RegExp(values, 'gi'), function (x) {
-              return "<mark style='background-color:blue;'>" + x + "</mark>";
-            });
-        }
-    },*/
 
     histExample: function () {
         $("#hist").css("color", "#E1CFCB");
@@ -125,24 +71,11 @@ var Common = {
     },
 
     setColor: function () {
-      //$("#levels").css("display", "block");
-      //paragraphs = $("p").toArray();
-      //paragraphs.forEach(function(x) {
-      //document.querySelectorAll('p').forEach(function() {
 
       var parent = document.getElementsByTagName("p");
       l = parent.length;
       for (var i = 0; i < l; i++) {
           x = parent[i]
-          /*var interpAtt = x.document.querySelectorAll("[ana='#interp']");
-          var histAtt = x.document.querySelectorAll("[ana='#hist']");
-          var crossAtt = x.document.querySelectorAll("[ana='#cross-ref']");
-          var cognAtt = x.document.querySelectorAll("[ana='#cogn']");
-
-          var interplen = interAtt.length;
-          var histlen = histAtt.length;
-          var crosslen = crossAtt.length;
-          var cognlen = cognAtt.length;*/
           var interplen = $(x).children("[ana='#interp']").length;
           var histlen = $(x).children("[ana='#hist']").length;
           var crosslen = $(x).children("[ana='#cross-ref']").length;
@@ -172,8 +105,7 @@ var Common = {
         }
 
 
-        tot = parent.length; //86
-      //$("#content").html(tot);
+        tot = parent.length;
         var i = document.getElementsByClassName("interpclass")
         var h = document.getElementsByClassName("histclass")
         var c = document.getElementsByClassName("crossclass")
@@ -192,28 +124,12 @@ var Common = {
         var crossper = (totcross*100)/tot;
         var otherper = (totother*100)/tot;
 
-        document.getElementById("hper").innerHTML = "History: "+Math.round(histper)+"%";//'History: '+histper+"%";
+        document.getElementById("hper").innerHTML = "History: "+Math.round(histper)+"%";
         document.getElementById("iper").innerHTML = "Interpretation: "+Math.round(interper)+"%";
         document.getElementById("cper").innerHTML = "Cross-referencing: "+Math.round(crossper)+"%";
         document.getElementById("gper").innerHTML = "Cognition: "+Math.round(cognper)+"%";
         document.getElementById("oper").innerHTML = "Other: "+Math.round(otherper)+"%";
-            //$("#content").html(response);
-        //var response = Common.getPer(histper, interper, cognper, crossper, otherper);
-
-        //HTMLElementObject.innerHTML = text
-        //$("#content").html(ch);
     },
-
-    // set the content of the html elements
-    /*getPer: function (histper, interper, cognper, crossper, otherper) {
-        document.getElementById("hper").innerHTML = "History: "+Math.round(histper)+"%";//'History: '+histper+"%";
-        document.getElementById("iper").innerHTML = "Interpretation: "+Math.round(interper)+"%";
-        document.getElementById("cper").innerHTML = "Cross-referencing: "+Math.round(crossper)+"%";
-        document.getElementById("gper").innerHTML = "Cognition: "+Math.round(cognper)+"%";
-        document.getElementById("oper").innerHTML = "Other: "+Math.round(otherper)+"%";
-        //$("#content").html(response);
-    },*/
-
 };
 
 $(function () {
