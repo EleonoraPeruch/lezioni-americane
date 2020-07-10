@@ -1,0 +1,27 @@
+body {
+  font-family: "Georgia"
+}
+
+seg[ana^="#hist"] {
+  background-color: ;
+  color: ;
+}
+
+seg[ana^="#cross-ref"] {
+  background-color: ;
+  color: ;
+}
+
+seg[ana^="#interp"] {
+  background-color: ;
+  color: ;
+}
+
+seg[ana^="#cogn"] {
+  background-color: ;
+  color: ;
+}
+
+#commands {
+  display: block;
+}
