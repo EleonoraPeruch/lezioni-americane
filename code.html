@@ -67,7 +67,6 @@
                               Check the original file <a href="scripts/leggerezza.xml">here</a>.</p>
                             <pre>
                             <code class="xml">
-                                <xmp>
 
                                 <?xml version="1.0" encoding="UTF-8"?>
                                 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -1161,7 +1160,6 @@
                                   </text>
                                 </TEI>
 
-                              </xmp>
                               </code>
                             </pre>
                         </div>
@@ -1182,8 +1180,8 @@
                             <p class="mbr-section-text  align-center mbr-fonts-style display-7">The XSL file has been used to transform the XML file into an HTML.<br/>
                               Check the original file <a href="scripts/leggerezza.xsl">here</a>.</p>
                             <pre>
-                            <code class="xml">
-                              <xmp>
+                            <!--<code class="language-xml">-->
+                            <xmp>
                                 <?xml version="1.0" encoding="UTF-8"?>
                                 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                                   xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -1329,9 +1327,8 @@
                                   <xsl:variable name="people-h" select="count(//tei:persName[@ana='#hist'])"/>
 
                                 </xsl:stylesheet>
-
                               </xmp>
-                              </code>
+                              <!--</code>-->
                             </pre>
                         </div>
 
@@ -1351,8 +1348,7 @@
                             <p class="mbr-section-text  align-center mbr-fonts-style display-7">XQuery has been used to extract some information from our XML file.<br/>
                               Check the original file <a href="scripts/leggerezza.xquery">here</a>.</p>
                             <pre>
-                            <code class="xml">
-                              <xmp>
+                            <code>
                                 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
                                 declare function local:countHist($node as node()) {
@@ -1480,8 +1476,6 @@
                                              </body>
                                        </html>
 
-
-                              </xmp>
                               </code>
                             </pre>
                         </div>
@@ -1503,7 +1497,6 @@
                               Check the original file <a href="scripts/leggerezza.js">here</a>.</p>
                             <pre>
                             <code class="javascript">
-                              <xmp class="xml">
                                 var histper, interper, cognper, crossper, otherper;
                                 var Common = {
                                     init: function () {
@@ -1641,8 +1634,6 @@
                                 $(function () {
                                     Common.init();
                                 });
-
-                              </xmp>
                               </code>
                             </pre>
                         </div>
