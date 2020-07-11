@@ -21,7 +21,7 @@ declare function local:countCp($node as node()) {
 };
 
 declare function local:countHp($node as node()) {
-    count($node//tei:seg[type='person' and @ana='#hist'])
+    count($node//tei:seg[@type='person' and @ana='#hist'])
 };
 
 declare function local:listTitle($nodes as node()*) as node()*  {
