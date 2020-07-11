@@ -90,16 +90,16 @@
     </seg>
   </xsl:template>
 
-  <xsl:template match="//tei:persName[@ana='#cross-ref']">
-    <persName ana="#cross-ref">
+  <xsl:template match="//tei:seg[@type='person' and @ana='#cross-ref']">
+    <seg type="person" ana="#cross-ref">
       <xsl:apply-templates/>
-    </persName>
+    </seg>
   </xsl:template>
 
-  <xsl:template match="//tei:persName[@ana='#hist']">
-    <persName ana="#hist">
+  <xsl:template match="//tei:seg[@type='place' and @ana='#hist']">
+    <seg type="place" ana="#hist">
       <xsl:apply-templates/>
-    </persName>
+    </seg>
   </xsl:template>
 
   <xsl:template match="//tei:body/tei:head">
@@ -124,9 +124,9 @@
     </p>
   </xsl:template>
 
-  <xsl:template match="//tei:placeName">
+  <!--<xsl:template match="//tei:placeName">
     <placeName><xsl:apply-templates/></placeName>
-  </xsl:template>
+  </xsl:template>-->
 
   <xsl:template match="//tei:title">
     <title><em><xsl:apply-templates/></em></title>
@@ -149,7 +149,7 @@
     </xsl:choose>
   </xsl:template>
 
-  <xsl:variable name="people-cf" select="count(//tei:persName[@ana='#cross-ref'])"/>
-  <xsl:variable name="people-h" select="count(//tei:persName[@ana='#hist'])"/>
+  <xsl:variable name="people-cf" select="count(//tei:seg[@type='person' and @ana='#cross-ref'])"/>
+  <xsl:variable name="people-h" select="count(//tei:seg[@type='person' and @ana='#hist'])"/>
 
 </xsl:stylesheet>

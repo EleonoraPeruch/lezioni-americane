@@ -149,16 +149,18 @@
         </p>
         <p>
            Sul rapporto tra Perseo e la Medusa possiamo apprendere
-           qualcosa di più leggendo <persName ana="#cross-ref">Ovidio</persName>
+           qualcosa di più leggendo <seg type="person" ana="#cross-ref">Ovidio</seg>
            nelle <title ana="#cross-ref">Metamorfosi</title>. Perseo ha vinto
            una nuova battaglia, ha massacrato a colpi di spada un mostro
            marino, ha liberato Andromeda. E ora si accinge a fare quello che
            ognuno di noi farebbe dopo un lavoraccio del genere: va a lavarsi le
            mani. In questi casi il suo problema è dove posare la <seg type="obj-sign" ana="#cogn">testa di
-           Medusa</seg>. E qui <persName ana="#cross-ref">Ovidio</persName> ha
+           Medusa</seg>. E qui <seg type="person" ana="#cross-ref">Ovidio</seg> ha
            dei versi (<bibl>IV, 740-752</bibl>) che mi paiono
            straordinari per spiegare quanta delicatezza d’animo sia necessaria
-           per essere un Perseo, vincitore di mostri:
+           per essere un Perseo, vincitore di mostri:       
+        </p>
+        <p>
            <quote xml:lang="it">«Perché la ruvida sabbia non sciupi la testa anguicrinita
            (<foreign xml:lang="lat">anguiferumque caput dura ne laedat harena</foreign>), egli rende soffice il terreno
            con uno strato di foglie, vi stende sopra dei ramoscelli nati sott’acqua
@@ -176,37 +178,37 @@
            corallo sfiora l’orrore feroce della Gorgone, è così carico di
            suggestioni che non vorrei sciuparlo tentando commenti o
            interpretazioni. Quel che posso fare è avvicinare a questi versi
-           d’<persName ana="#cross-ref">Ovidio</persName> quelli d’un poeta moderno,
-           <title ana="#cross-ref">Piccolo testamento</title> di <persName ana="#cross-ref">Eugenio
-           Montale</persName>, in cui troviamo pure elementi sottilissimi che sono come
+           d’<seg type="person" ana="#cross-ref">Ovidio</seg> quelli d’un poeta moderno,
+           <title ana="#cross-ref">Piccolo testamento</title> di <seg type="person" ana="#cross-ref">Eugenio
+           Montale</seg>, in cui troviamo pure elementi sottilissimi che sono come
            emblemi della sua poesia (<quote xml:lang="it">«traccia madreperlacea di lumaca / o
            smeriglio di vetro calpestato»</quote>) messi a confronto con uno spaventoso
            mostro infernale, un Lucifero dalle ali di bitume che cala sulle
            capitali dell’Occidente. Mai come in questa poesia scritta nel <date ana="cross-ref">1953</date>,
-           <persName ana="#cross-ref">Montale</persName> ha evocato una visione così apocalittica, ma ciò che i suoi
+           <seg type="person" ana="#cross-ref">Montale</seg> ha evocato una visione così apocalittica, ma ciò che i suoi
            versi mettono in primo piano sono quelle minime tracce luminose
            che egli contrappone alla buia catastrofe (<quote xml:lang="it">«Conservane la cipria nello
            specchie o / quando spenta ogni lampada / la sardana si farà
            infernale...»</quote>). Ma come possiamo sperare di salvarci in ciò che è più
-           fragile? Questa poesia di <persName ana="#cross-ref">Montale</persName> è una professione di fede nella
+           fragile? Questa poesia di <seg type="person" ana="#cross-ref">Montale</seg> è una professione di fede nella
            persistenza di ciò che più sembra destinato a perire, e nei valori
            morali investiti nelle tracce più tenui: <quote xml:lang="it">«il tenue bagliore strofinato /
            laggiù non era quello d’un fiammifero»</quote>.
         </p>
         <p>
            Ecco che per riuscire a parlare della <seg type="time-ref" ana="#hist">nostra epoca</seg>, ho dovuto fare
-           un lungo giro, evocare la fragile Medusa di <persName ana="#cross-ref">Ovidio</persName> e il bituminoso
-           Lucifero di <persName ana="#cross-ref">Montale</persName>. È difficile per
+           un lungo giro, evocare la fragile Medusa di <seg type="person" ana="#cross-ref">Ovidio</seg> e il bituminoso
+           Lucifero di <seg type="person" ana="#cross-ref">Montale</seg>. È difficile per
            un <seg type="writer" ana="#interp">romanziere</seg> rappresentare la
            sua idea di leggerezza, esemplificata sui casi della vita
            contemporanea, se non facendone l’oggetto irraggiungibile d’una
            <foreign xml:lang="fr">quête</foreign> senza fine. È quanto ha fatto con evidenza e immediatezza
-           <persName ana="#cross-ref">Milan Kundera</persName>. Il suo romanzo <title ana="#cross-ref">L’Insostenibile Leggerezza dell’Essere</title> è
+           <seg type="person" ana="#cross-ref">Milan Kundera</seg>. Il suo romanzo <title ana="#cross-ref">L’Insostenibile Leggerezza dell’Essere</title> è
            in realtà un’amara constatazione dell’Ineluttabile Pesantezza del
            Vivere: non solo della condizione d’oppressione disperata e <foreign xml:lang="en">all-
            pervading</foreign> che è toccata in sorte al suo sventurato paese, ma d’una
            condizione umana comune anche a noi, pur infinitamente più
-           fortunati. Il peso del vivere per <persName ana="#cross-ref">Kundera</persName> sta in ogni forma di
+           fortunati. Il peso del vivere per <seg type="person" ana="#cross-ref">Kundera</seg> sta in ogni forma di
            costrizione: la fitta rete di costrizioni pubbliche e private che finisce
            per avvolgere ogni esistenza con nodi sempre più stretti. <seg type="written-unwritten" ana="#cogn">Il suo
            romanzo ci dimostra come nella vita tutto quello che scegliamo e
@@ -215,6 +217,8 @@
            sfuggono a questa condanna: <seg type="written-unwritten" ana="#cogn">le
            qualità con cui è scritto il romanzo,
            che appartengono a un altro universo da quello del vivere.</seg>
+        </p>
+        <p>
            Nei momenti in cui il regno dell’umano <seg type="pron" ana="#interp">mi</seg> sembra condannato
            alla pesantezza, <seg type="verb" ana="#interp">penso</seg> che
            <seg type="verb" ana="#interp">dovrei</seg> volare come Perseo in un altro
@@ -265,17 +269,17 @@
            filo molto antico nella storia della <seg type="written" ana="#interp">poesia</seg>.
         </p>
         <p>
-           Il <title ana="#cross-ref">De rerum natura</title> di <persName ana="#cross-ref">Lucrezio</persName>
+           Il <title ana="#cross-ref">De rerum natura</title> di <seg type="person" ana="#cross-ref">Lucrezio</seg>
            è la prima grande opera di <seg type="written" ana="#cogn">poesia</seg> in
            cui la conoscenza del <seg type="unwritten" ana="#cogn">mondo</seg> diventa dissoluzione della compattezza
            del <seg type="unwritten" ana="#cogn">mondo</seg>, percezione di ciò che è infinitamente minuto e mobile e
-           leggero. <persName ana="#cross-ref">Lucrezio</persName> vuole scrivere
+           leggero. <seg type="person" ana="#cross-ref">Lucrezio</seg> vuole scrivere
            il <seg type="written" ana="#cogn">poema</seg> della materia ma ci avverte
            subito che la vera <seg type="unwritten" ana="#cogn">realtà</seg> di questa materia è fatta di corpuscoli
            invisibili. È il <seg type="writer" ana="#interp">poeta</seg> della concretezza fisica, vista nella sua sostanza
            permanente e immutabile, ma per prima cosa ci dice che il vuoto è
            altrettanto concreto che i corpi solidi. La più grande preoccupazione
-           di <persName ana="#cross-ref">Lucrezio</persName> sembra quella di evitare
+           di <seg type="person" ana="#cross-ref">Lucrezio</seg> sembra quella di evitare
            che il peso della materia <seg type="pron" ana="#interp">ci</seg>
            schiacci. Al momento di stabilire le rigorose leggi meccaniche che
            determinano ogni evento, egli sente il bisogno di permettere agli
@@ -290,7 +294,7 @@
         <p>
            Questa polverizzazione della <seg type="unwritten" ana="#cogn">realtà</seg>
            s’estende anche agli aspetti visibili, ed è là che eccelle la qualità poetica
-           di <persName ana="#cross-ref">Lucrezio</persName>: i granelli di
+           di <seg type="person" ana="#cross-ref">Lucrezio</seg>: i granelli di
            polvere che turbinano in un raggio di sole in una stanza buia (<bibl ana="#cross-ref">II, 114-
            124</bibl>); le minute conchiglie tutte simili e tutte diverse che l’onda
            mollemente spinge sulla bibula harena, sulla sabbia che s’imbeve (<bibl ana="#cross-ref">II,
@@ -299,25 +303,27 @@
         </p>
         <p>
            Ho già citato le <title ana="#cross-ref">Metamorfosi</title>
-           d’<persName ana="#cross-ref">Ovidio</persName>, un altro <seg type="written" ana="#cogn">poema</seg>
+           d’<seg type="person" ana="#cross-ref">Ovidio</seg>, un altro <seg type="written" ana="#cogn">poema</seg>
            enciclopedico (scritto una cinquantina d’anni più tardi di quello di
-           <persName ana="#cross-ref">Lucrezio</persName>) che parte, anziché
+           <seg type="person" ana="#cross-ref">Lucrezio</seg>) che parte, anziché
            dalla <seg type="unwritten" ana="#cogn">realtà</seg> fisica, dalle favole
-           mitologiche. Anche per <persName ana="#cross-ref">Ovidio</persName>
-           tutto può trasformarsi in nuove forme; anche per <persName ana="#cross-ref">Ovidio</persName>
+           mitologiche. Anche per <seg type="person" ana="#cross-ref">Ovidio</seg>
+           tutto può trasformarsi in nuove forme; anche per <seg type="person" ana="#cross-ref">Ovidio</seg>
            la conoscenza del <seg type="unwritten" ana="#cogn">mondo</seg> è dissoluzione
            della compattezza del <seg type="unwritten" ana="#cogn">mondo</seg>; anche
-           per <persName ana="#cross-ref">Ovidio</persName> c’è una parità
+           per <seg type="person" ana="#cross-ref">Ovidio</seg> c’è una parità
            essenziale tra tutto ciò che esiste, contro ogni gerarchia di poteri e di
            valori. Se il <seg type="unwritten" ana="#cogn">mondo</seg> di
-           <persName ana="#cross-ref">Lucrezio</persName> è fatto d’atomi inalterabili,
-           quello d’<persName ana="#cross-ref">Ovidio</persName> è fatto di qualità,
+           <seg type="person" ana="#cross-ref">Lucrezio</seg> è fatto d’atomi inalterabili,
+           quello d’<seg type="person" ana="#cross-ref">Ovidio</seg> è fatto di qualità,
            d’attributi, di forme che definiscono la
            diversità d’ogni cosa e pianta e animale e persona; ma questi non
            sono che tenui involucri d’una sostanza comune che – se agitata da
            profonda passione – può trasformarsi in quel che vi è di più diverso.
+        </p>
+        <p>
            È nel seguire la continuità del passaggio da una forma a un’altra
-           che <persName ana="#cross-ref">Ovidio</persName> dispiega le sue
+           che <seg type="person" ana="#cross-ref">Ovidio</seg> dispiega le sue
            ineguagliabili doti: quando racconta come
            una donna s’accorge che sta trasformandosi in giuggiolo: i piedi le
            rimangono inchiodati per terra, una corteccia tenera sale a poco a
@@ -328,14 +334,14 @@
            zampe di ragno e mettersi a tessere ragnatele.
         </p>
         <p>
-           Tanto in <persName ana="#cross-ref">Lucrezio</persName> quanto in
-           <persName ana="#cross-ref">Ovidio</persName> la leggerezza è un modo di
+           Tanto in <seg type="person" ana="#cross-ref">Lucrezio</seg> quanto in
+           <seg type="person" ana="#cross-ref">Ovidio</seg> la leggerezza è un modo di
            vedere il <seg type="unwritten" ana="#cogn">mondo</seg> che si fonda
-           sulla filosofia e sulla scienza: le dottrine di <persName ana="#cross-ref">Epicuro</persName>
-           per <persName ana="#cross-ref">Lucrezio</persName>, le dottrine di
-           <persName ana="#cross-ref">Pitagora</persName> per <persName ana="#cross-ref">Ovidio</persName>
-           (un <persName ana="#cross-ref">Pitagora</persName> che, come <persName ana="#cross-ref">Ovidio</persName>
-           ce lo presenta, somiglia molto a <persName>Budda</persName>).
+           sulla filosofia e sulla scienza: le dottrine di <seg type="person" ana="#cross-ref">Epicuro</seg>
+           per <seg type="person" ana="#cross-ref">Lucrezio</seg>, le dottrine di
+           <seg type="person" ana="#cross-ref">Pitagora</seg> per <seg type="person" ana="#cross-ref">Ovidio</seg>
+           (un <seg type="person" ana="#cross-ref">Pitagora</seg> che, come <seg type="person" ana="#cross-ref">Ovidio</seg>
+           ce lo presenta, somiglia molto a <seg type="person">Budda</seg>).
            Ma in entrambi i casi la leggerezza è qualcosa che si crea nella
            <seg type="written" ana="cogn">scrittura</seg>, con i mezzi linguistici che
            sono quelli del <seg type="writer" ana="#interp">poeta</seg>,
@@ -355,13 +361,13 @@
            Non <seg type="verb" ana="#interp">potrei</seg> illustrare meglio questa
            idea che con una <seg type="written" ana="#cogn">novella</seg> del
            <bibl ana="#cross-ref"><title ana="#cross-ref">Decameron</title> (VI, 9)</bibl>
-           dove appare il <seg type="writer" ana="#interp">poeta</seg> fiorentino <persName>Guido Cavalcanti</persName>.
-           <persName ana="#cross-ref">Boccaccio</persName> <seg type="pron" ana="#interp">ci</seg> presenta
-           <persName>Cavalcanti</persName> come un austero <seg type="writer">filosofo</seg> che
+           dove appare il <seg type="writer" ana="#interp">poeta</seg> fiorentino <seg type="person">Guido Cavalcanti</seg>.
+           <seg type="person" ana="#cross-ref">Boccaccio</seg> <seg type="pron" ana="#interp">ci</seg> presenta
+           <seg type="person">Cavalcanti</seg> come un austero <seg type="writer">filosofo</seg> che
            passeggia meditando tra i sepolcri di marmo davanti a una chiesa.
            La <foreign xml:lang="fr">jeunesse dorée</foreign> fiorentina cavalcava per la città in brigate che
            passavano da una festa all’altra, sempre cercando occasioni
-           d’ampliare il loro giro di scambievoli inviti. <persName>Cavalcanti</persName> non era
+           d’ampliare il loro giro di scambievoli inviti. <seg type="person">Cavalcanti</seg> non era
            popolare tra loro, perché, benché fosse ricco ed elegante, non
            accettava mai di far baldoria con loro e perché la sua misteriosa
            <seg type="written">filosofia</seg> era sospettata d’empietà:
@@ -373,12 +379,12 @@
            Reparata, e molte altre dintorno a San Giovanni, e egli essendo tralle colonne
            del porfido che vi sono e quelle arche e la porta di San Giovanni, che serrata era,
            messer Betto con sua brigata a caval venendo su per la piazza di Santa Reparata,
-           vedendo <persName>Guido</persName> là tra quelle sepolture, dissero: «Andiamo a dargli briga»; e
+           vedendo <seg type="person">Guido</seg> là tra quelle sepolture, dissero: «Andiamo a dargli briga»; e
            spronati i cavalli, a guisa d’uno assalto sollazzevole gli furono, quasi prima che
-           egli se ne avvedesse, sopra e cominciarongli a dire: «<persName>Guido</persName>,
+           egli se ne avvedesse, sopra e cominciarongli a dire: «<seg type="person">Guido</seg>,
            tu rifiuti d’esser di nostra brigata; ma ecco, quando tu avrai trovato
            che Idio non sia, che avrai fatto?»
-           A’ quali <persName>Guido</persName>, da lor veggendosi chiuso, prestamente disse: «Signori, voi mi
+           A’ quali <seg type="person">Guido</seg>, da lor veggendosi chiuso, prestamente disse: «Signori, voi mi
            potete dire a casa vostra ciò che vi piace»; e posta la mano sopra una di quelle
            arche, che grandi erano, sì come colui che leggerissimo era, prese un salto e fusi
            gittato dall’altra parte, e sviluppatosi da loro se n’andò.
@@ -387,14 +393,14 @@
       <div type="part">
         <p>
            Ciò che qui <seg type="pron" ana="#interp">ci</seg> interessa non è tanto la battuta attribuita a
-           <persName>Cavalcanti</persName> (che si può interpretare considerando che il preteso
+           <seg type="person">Cavalcanti</seg> (che si può interpretare considerando che il preteso
            «epicureismo» del <seg type="writer">poeta</seg> era in realtà averroismo, per cui l’anima
            individuale fa parte dell’intelletto universale: le tombe sono casa
            vostra e non mia in quanto la morte corporea è vinta da chi s’innalza
            alla contemplazione universale attraverso la speculazione
            dell’intelletto). Ciò che <seg type="pron" ana="#interp">ci</seg> colpisce
-           è l’immagine visuale che <persName ana="#cross-ref">Boccaccio</persName>
-           evoca: <persName>Cavalcanti</persName> che si libera d’un salto
+           è l’immagine visuale che <seg type="person" ana="#cross-ref">Boccaccio</seg>
+           evoca: <seg type="person">Cavalcanti</seg> che si libera d’un salto
            <quote xml:lang="ver-it">«sì come colui che leggerissimo era»</quote>.
         </p>
         <p>
@@ -413,12 +419,12 @@
         <p>
            <seg type="verb" ana="#interp">Vorrei</seg> che <seg type="verb" ana="#interp">conservaste</seg>
            quest’immagine nella mente, ora che <seg type="pron" ana="#interp">vi</seg>
-           parlerò di <persName ana="#cross-ref">Cavalcanti</persName> <seg type="writer" ana="#interp">poeta</seg>
+           parlerò di <seg type="person" ana="#cross-ref">Cavalcanti</seg> <seg type="writer" ana="#interp">poeta</seg>
            della leggerezza. Nelle sue <seg type="written" ana="#cogn">poesie</seg> le
            <foreign xml:lang="lat">«dramatis personae»</foreign> più che personaggi umani sono <seg type="obj-sign" ana="#cogn">sospiri, raggi
            luminosi, immagini ottiche, e soprattutto quegli impulsi o messaggi
            immateriali che egli chiama «spiriti»</seg>. Un tema niente affatto leggero
-           come la sofferenza d’amore, viene dissolto da <persName ana="#cross-ref">Cavalcanti</persName> in entità
+           come la sofferenza d’amore, viene dissolto da <seg type="person" ana="#cross-ref">Cavalcanti</seg> in entità
            impalpabili che si spostano tra anima sensitiva e anima intellettiva,
            tra cuore e mente, tra occhi e voce. Insomma, si tratta sempre di
            qualcosa che è contraddistinto da tre caratteristiche: 1) è
@@ -433,28 +439,28 @@
            isbigo ite, / le cesoiuzze e’l coltellin dolente...»</quote>
            In un <seg type="written" ana="#cogn">sonetto</seg> la
            parola «spirito» o «spiritello» compare in ogni verso: in un’evidente
-           autoparodia, <persName ana="#cross-ref">Cavalcanti</persName> porta alle ultime conseguenze la sua
+           autoparodia, <seg type="person" ana="#cross-ref">Cavalcanti</seg> porta alle ultime conseguenze la sua
            predilezione per quella parola-chiave, concentrando nei 14 versi un
            complicato <seg type="written" ana="#cogn">racconto</seg> astratto in cui intervengono 14 «spiriti» ognuno
            con una diversa funzione. In un altro <seg type="written" ana="#cogn">sonetto</seg>, il corpo viene
            smembrato dalla sofferenza amorosa, ma continua a camminare
            come un automa <quote xml:lang="ver-it">«fa o di rame o di pietra o di legno»</quote>. Già in un
-           <seg type="written" ana="#cogn">sonetto</seg> di <persName ana="#cross-ref">Guinizelli</persName>
+           <seg type="written" ana="#cogn">sonetto</seg> di <seg type="person" ana="#cross-ref">Guinizelli</seg>
            la pena amorosa trasformava il <seg type="writer" ana="#interp">poeta</seg> in una
            statua d’ottone: un’immagine molto concreta, che ha la forza proprio
-           nel senso di peso che comunica. In <persName ana="#cross-ref">Cavalcanti</persName>, il peso della materia
+           nel senso di peso che comunica. In <seg type="person" ana="#cross-ref">Cavalcanti</seg>, il peso della materia
            si dissolve per il fatto che i materiali del simulacro umano possono
            essere tanti, intercambiabili; la metafora non impone un oggetto
            solido, e neanche la parola «pietra» arriva ad appesantire il verso.
            Ritroviamo quella parità di tutto ciò che esiste di cui ho parlato a
-           proposito di <persName ana="#cross-ref">Lucrezio</persName> e di
-           <persName ana="#cross-ref">Ovidio</persName>. Un maestro della critica stilistica
-           italiana, <persName ana="#cross-ref">Gianfranco Contini</persName>, la definisce
+           proposito di <seg type="person" ana="#cross-ref">Lucrezio</seg> e di
+           <seg type="person" ana="#cross-ref">Ovidio</seg>. Un maestro della critica stilistica
+           italiana, <seg type="person" ana="#cross-ref">Gianfranco Contini</seg>, la definisce
            <quote xml:lang="it">«parificazione cavalcantiana dei reali»</quote>.
         </p>
         <p>
            L’esempio più felice di <quote xml:lang="it">«parificazione dei reali»</quote>,
-           <persName ana="#cross-ref">Cavalcanti</persName> lo dà in un <seg type="written" ana="#cogn">sonetto</seg>
+           <seg type="person" ana="#cross-ref">Cavalcanti</seg> lo dà in un <seg type="written" ana="#cogn">sonetto</seg>
            che s’apre con una enumerazione d’immagini di
            bellezza, tutte destinate a essere superate dalla bellezza della donna amata:
 
@@ -470,31 +476,31 @@
           </quote></cit>
 
            Il verso <quote xml:lang="ver-it">«e bianca neve scender senza venti»</quote>
-           è stato ripreso con poche varianti da <persName ana="#cross-ref">Dante</persName>
+           è stato ripreso con poche varianti da <seg type="person" ana="#cross-ref">Dante</seg>
            nell’<bibl>Inferno (XIV , 30)</bibl>: <quote xml:lang="ver-it">«come di neve in alpe
            sanza vento»</quote>. I due versi sono quasi identici, eppure esprimono due
            concezioni completamente diverse. In entrambi la neve senza vento
            evoca un movimento lieve e silenzioso. Ma qui si ferma la
-           somiglianza e comincia la diversità. In <persName ana="#cross-ref">Dante</persName> il verso è dominato
+           somiglianza e comincia la diversità. In <seg type="person" ana="#cross-ref">Dante</seg> il verso è dominato
            dalla specificazione del luogo («in alpe»), che evoca uno scenario
-           montagnoso. Invece in <persName ana="#cross-ref">Cavalcanti</persName> l’aggettivo «bianca», che potrebbe
+           montagnoso. Invece in <seg type="person" ana="#cross-ref">Cavalcanti</seg> l’aggettivo «bianca», che potrebbe
            sembrare pleonastico, unito al verbo «scendere», anch’esso del tutto
            prevedibile, cancellano il paesaggio in un’atmosfera di sospesa
            astrazione. Ma è soprattutto la prima parola a determinare il diverso
-           significato dei due versi. In <persName ana="#cross-ref">Cavalcanti</persName> la congiunzione «e» mette la
+           significato dei due versi. In <seg type="person" ana="#cross-ref">Cavalcanti</seg> la congiunzione «e» mette la
            neve sullo stesso piano delle altre visioni che la precedono e la
            seguono: una fuga di immagini, che è come un campionario delle
-           bellezze del mondo. In <persName ana="#cross-ref">Dante</persName> l’avverbio «come» rinchiude tutta la
+           bellezze del mondo. In <seg type="person" ana="#cross-ref">Dante</seg> l’avverbio «come» rinchiude tutta la
            scena nella cornice d’una metafora, ma all’interno di questa cornice
            essa ha una sua <seg type="unwritten" ana="#cogn">realtà</seg> concreta,
            così come una <seg type="unwritten" ana="#cogn">realtà</seg> non meno
-           concreta e drammatica ha il paesaggio dell’<placeName ana="#cross-ref">Inferno</placeName> sotto una pioggia
+           concreta e drammatica ha il paesaggio dell’<seg type="place" ana="#cross-ref">Inferno</seg> sotto una pioggia
            di fuoco, per illustrare il quale viene introdotta la similitudine con la
-           neve. In <persName ana="#cross-ref">Cavalcanti</persName> tutto si muove così rapidamente che non
+           neve. In <seg type="person" ana="#cross-ref">Cavalcanti</seg> tutto si muove così rapidamente che non
            possiamo renderci conto della sua consistenza ma solo dei suoi
-           effetti; in <persName ana="#cross-ref">Dante</persName>, tutto acquista consistenza e stabilità: il peso delle
+           effetti; in <seg type="person" ana="#cross-ref">Dante</seg>, tutto acquista consistenza e stabilità: il peso delle
            cose è stabilito con esattezza. Anche quando parla di cose lievi,
-           <persName ana="#cross-ref">Dante</persName> sembra voler rendere il peso esatto di questa leggerezza:
+           <seg type="person" ana="#cross-ref">Dante</seg> sembra voler rendere il peso esatto di questa leggerezza:
            <quote xml:lang="ver-it">«come di neve in alpe sanza vento»</quote>. Così come in un altro verso
            molto simile, la pesantezza d’un corpo che affonda nell’acqua e
            scompare è come trattenuta e attutita: <quote xml:lang="ver-it">«come per acqua cupa cosa
@@ -515,20 +521,22 @@
            meglio un pulviscolo sottile, o meglio ancora come un campo
            d’impulsi magnetici; l’altra tende a comunicare al linguaggio il peso,
            lo spessore, la concretezza delle cose, dei corpi, delle sensazioni.
+        </p>
+        <p>
            Alle origini della <seg type="written" ana="#cogn">letteratura</seg> italiana – e europea – queste due vie
-           sono aperte da <persName ana="#cross-ref">Cavalcanti</persName> e da
-           <persName ana="#cross-ref">Dante</persName>. L’opposizione vale
+           sono aperte da <seg type="person" ana="#cross-ref">Cavalcanti</seg> e da
+           <seg type="person" ana="#cross-ref">Dante</seg>. L’opposizione vale
            naturalmente nelle sue linee generali, ma richiederebbe
            innumerevoli specificazioni, data l’enorme ricchezza di risorse di
-           <persName ana="#cross-ref">Dante</persName> e la sua straordinaria versatilità.
+           <seg type="person" ana="#cross-ref">Dante</seg> e la sua straordinaria versatilità.
            Non è un caso che il <seg type="written" ana="#cogn">sonetto</seg>
-           di <persName ana="#cross-ref">Dante</persName> ispirato alla più felice leggerezza
-           (<quote xml:lang="ver-it">«<persName>Guido</persName>, i’ vorrei che tu e
-           <persName>Lapo</persName> ed io»</quote>) sia dedicato a <persName ana="#cross-ref">Cavalcanti</persName>.
-           Nella <title ana="#cross-ref">Vita nuova</title>, <persName ana="#cross-ref">Dante</persName> tratta
+           di <seg type="person" ana="#cross-ref">Dante</seg> ispirato alla più felice leggerezza
+           (<quote xml:lang="ver-it">«<seg type="person">Guido</seg>, i’ vorrei che tu e
+           <seg type="person">Lapo</seg> ed io»</quote>) sia dedicato a <seg type="person" ana="#cross-ref">Cavalcanti</seg>.
+           Nella <title ana="#cross-ref">Vita nuova</title>, <seg type="person" ana="#cross-ref">Dante</seg> tratta
            la stessa materia del suo maestro e amico, e vi sono parole, motivi e
            concetti che si trovano in entrambi i <seg type="writer" ana="#interp">poeti</seg>;
-           quando <persName ana="#cross-ref">Dante</persName> vuole
+           quando <seg type="person" ana="#cross-ref">Dante</seg> vuole
            esprimere leggerezza, anche nella <title ana="#cross-ref">Divina Commedia</title>,
            nessuno sa farlo meglio di lui; ma la sua genialità si manifesta nel senso opposto,
            nell’estrarre dalla lingua tutte le possibilità sonore ed emozionali e
@@ -536,20 +544,20 @@
            la varietà dei suoi livelli e delle sue forme e dei suoi attributi, nel
            trasmettere il senso che il <seg type="unwritten" ana="#cogn">mondo</seg>
            è organizzato in un sistema, in un ordine, in una gerarchia dove tutto trova il suo posto. Forzando un
-           po’ la contrapposizione potrei dire che <persName ana="#cross-ref">Dante</persName> dà solidità corporea
-           anche alla più astratta speculazione intellettuale, mentre <persName ana="#cross-ref">Cavalcanti</persName>
+           po’ la contrapposizione potrei dire che <seg type="person" ana="#cross-ref">Dante</seg> dà solidità corporea
+           anche alla più astratta speculazione intellettuale, mentre <seg type="person" ana="#cross-ref">Cavalcanti</seg>
            dissolve la concretezza dell’esperienza tangibile in versi dal ritmo
            scandito, sillabato, come se il pensiero si staccasse dall’oscurità in
            rapide scariche elettriche.
         </p>
         <p>
-           L’essermi soffermato su <persName ana="#cross-ref">Cavalcanti</persName>
+           L’essermi soffermato su <seg type="person" ana="#cross-ref">Cavalcanti</seg>
            <seg type="pron" ana="#interp">m</seg>’è servito a chiarire meglio
            (almeno a me stesso) cosa intendo per «leggerezza». La leggerezza
            per <seg type="pron" ana="#interp">me</seg> si associa con la precisione e la determinazione,
-           non con la vaghezza e l’abbandono al caso. <persName ana="#cross-ref">Paul Valéry</persName>
+           non con la vaghezza e l’abbandono al caso. <seg type="person" ana="#cross-ref">Paul Valéry</seg>
            ha detto: <quote xml:lang="fr">«Il faut être léger comme l’oiseau, et non comme la plume»</quote>.
-           Mi sono servito di <persName ana="#cross-ref">Cavalcanti</persName> per esemplificare la leggerezza in
+           Mi sono servito di <seg type="person" ana="#cross-ref">Cavalcanti</seg> per esemplificare la leggerezza in
            almeno tre accezioni diverse:
         </p>
         <p>
@@ -559,7 +567,7 @@
         </p>
         <p>
            Lascio a voi trovare altri esempi in questa direzione. Per esempio
-           <persName ana="#cross-ref">Emily Dickinson</persName> può fornircene quanti vogliamo:
+           <seg type="person" ana="#cross-ref">Emily Dickinson</seg> può fornircene quanti vogliamo:
 
           <cit><quote xml:lang="en">
            A sepal, petal, and a thorn<lb/>
@@ -584,7 +592,7 @@
         </p>
         <p>
            E qui per cercare un esempio più moderno <seg type="verb" ana="#interp">possiamo</seg> provare con
-           <persName ana="#cross-ref">Henry James</persName>, anche aprendo un suo libro a caso:
+           <seg type="person" ana="#cross-ref">Henry James</seg>, anche aprendo un suo libro a caso:
 
           <cit>
            <quote xml:lang="en">It was as if these depths, constantly bridged over by a structure that was firm
@@ -611,14 +619,14 @@
         <p>
            3) una immagine figurale di leggerezza che assuma un valore
            emblematico, come, nella <seg type="written" ana="#cogn">novella</seg>
-           di <persName ana="#cross-ref">Boccaccio</persName>, <persName>Cavalcanti</persName> che
+           di <seg type="person" ana="#cross-ref">Boccaccio</seg>, <seg type="person">Cavalcanti</seg> che
            volteggia con le sue smilze gambe sopra la pietra tombale.
         </p>
         <p>
            Ci sono invenzioni letterarie che s’impongono alla memoria per la
            loro suggestione verbale più che per le parole. La scena di Don
            Quijote che infilza con la lancia una pala del mulino a vento e viene
-           trasportato in aria occupa poche righe del romanzo di <persName ana="#cross-ref">Cervantes</persName>; si
+           trasportato in aria occupa poche righe del romanzo di <seg type="person" ana="#cross-ref">Cervantes</seg>; si
            può dire che in essa l’autore non ha investito che in minima misura
            le risorse della sua <seg type="written" ana="#cogn">scrittura</seg>;
            ciononostante essa resta uno dei luoghi più famosi della
@@ -628,7 +636,7 @@
       <div type="part">
         <p>
            Penso che con queste indicazioni posso mettermi a sfogliare i libri
-           della mia biblioteca in cerca d’esempi di leggerezza. In <persName ana="#cross-ref">Shakespeare</persName>
+           della mia biblioteca in cerca d’esempi di leggerezza. In <seg type="person" ana="#cross-ref">Shakespeare</seg>
            vado subito a cercare il punto in cui Mercutio entra in scena:
            <quote xml:lang="en">«You are a lover; borrow Cupid’s wings / and soar with them above a
            common bound»</quote> <quote type="translation" xml:lang="it">
@@ -689,10 +697,10 @@
            ninfe e di driadi, ma le mitologie celtiche sono certo più ricche nella
            imagerie delle più sottili forze naturali coi loro elfi e le loro fate.
            Questo sfondo culturale (penso naturalmente agli affascinanti studi
-           di <persName ana="#cross-ref">Frances Yates</persName> sulla <seg type="written" ana="#cogn">filosofia</seg>
+           di <seg type="person" ana="#cross-ref">Frances Yates</seg> sulla <seg type="written" ana="#cogn">filosofia</seg>
            occulta del <seg type="event-ref" ana="#hist">Rinascimento</seg> e sui suoi
            echi nella <seg type="written" ana="#cogn">letteratura</seg>) spiega perché
-           in <persName ana="#cross-ref">Shakespeare</persName> si possa trovare
+           in <seg type="person" ana="#cross-ref">Shakespeare</seg> si possa trovare
            l’esemplificazione più ricca del mio tema. E non sto pensando solo a
            Puck e a tutta la fantasmagoria del Dream, o a Ariel e a tutti coloro
            che <quote xml:lang="en">«are such stuff / As dreams are made on»
@@ -704,20 +712,22 @@
         </p>
         <p>
            La gravità senza peso di cui <seg type="verb" ana="#interp">ho parlato</seg> a proposito di
-           <persName ana="#cross-ref">Cavalcanti</persName> riaffiora nell’<seg type="time-ref" ana="#hist">epoca</seg>
-           di <persName ana="#cross-ref">Cervantes</persName> e di <persName ana="#cross-ref">Shakespeare</persName>:
+           <seg type="person" ana="#cross-ref">Cavalcanti</seg> riaffiora nell’<seg type="time-ref" ana="#hist">epoca</seg>
+           di <seg type="person" ana="#cross-ref">Cervantes</seg> e di <seg type="person" ana="#cross-ref">Shakespeare</seg>:
            è quella speciale connessione tra melanconia e umorismo, che è stata studiata in
-           <title ana="#cross-ref">Saturn and Melancholy</title> da <persName ana="#cross-ref">Klibansky</persName>,
-           <persName ana="#cross-ref">Panofsky</persName>, <persName ana="#cross-ref">Saxl</persName>. Come la
+           <title ana="#cross-ref">Saturn and Melancholy</title> da <seg type="person" ana="#cross-ref">Klibansky</seg>,
+           <seg type="person" ana="#cross-ref">Panofsky</seg>, <seg type="person" ana="#cross-ref">Saxl</seg>. Come la
            melanconia è la tristezza diventata leggera, così lo humour è il comico
            che ha perso la pesantezza corporea (quella dimensione della
-           carnalità umana che pur fa grandi <persName ana="#cross-ref">Boccaccio</persName> e
-           <persName ana="#cross-ref">Rabelais</persName>) e mette in dubbio l’io e il
+           carnalità umana che pur fa grandi <seg type="person" ana="#cross-ref">Boccaccio</seg> e
+           <seg type="person" ana="#cross-ref">Rabelais</seg>) e mette in dubbio l’io e il
            <seg type="unwritten" ana="#cogn">mondo</seg> e tutta la rete di relazioni che li costituiscono.
+        </p>
+        <p>
            Melanconia e humour mescolati e inseparabili caratterizzano
            l’accento del Principe di Danimarca che abbiamo imparato a
            riconoscere in tutti o quasi i drammi shakespeariani sulle labbra dei
-           tanti avatars del personaggio Amleto. Uno di essi, Jaques in <title ana="#cross-ref">As You Like It</title>, 
+           tanti avatars del personaggio Amleto. Uno di essi, Jaques in <title ana="#cross-ref">As You Like It</title>,
           così definisce la melanconia (<bibl>atto IV , scena I</bibl>):
         </p>
         <p>
@@ -740,28 +750,28 @@
         </p>
         <p>
            <seg type="verb" ana="#interp">Confesso</seg> che la tentazione di
-           costruirmi uno <persName ana="#cross-ref">Shakespeare</persName> seguace
+           costruirmi uno <seg type="person" ana="#cross-ref">Shakespeare</seg> seguace
            dell’atomismo lucreziano è per <seg type="pron" ana="#interp">me</seg> molto forte,
            ma so che sarebbe arbitrario. Il primo <seg type="writer" ana="#interp">scrittore</seg>
            del <seg type="unwritten" ana="#cogn">mondo</seg> moderno che fa esplicita
            professione d’una concezione atomistica dell’universo nella sua
            trasfigurazione fantastica, lo troviamo solo alcuni anni dopo, in
-           <placeName ana="#cross-ref">Francia</placeName>: <persName ana="#cross-ref">Cyrano de Bergerac</persName>.
+           <seg type="place" ana="#cross-ref">Francia</seg>: <seg type="person" ana="#cross-ref">Cyrano de Bergerac</seg>.
         </p>
         <p>
            Straordinario <seg type="writer" ana="#interp">scrittore</seg>,
-           <persName ana="#cross-ref">Cyrano</persName>, che meriterebbe d’essere più
+           <seg type="person" ana="#cross-ref">Cyrano</seg>, che meriterebbe d’essere più
            ricordato, e non solo come primo vero precursore della fantascienza,
            ma per le sue qualità intellettuali e poetiche. Seguace del sensismo di
-           <persName ana="#cross-ref">Gassendi</persName> e dell’astronomia di
-           <persName ana="#cross-ref">Copernico</persName>, ma soprattutto nutrito
+           <seg type="person" ana="#cross-ref">Gassendi</seg> e dell’astronomia di
+           <seg type="person" ana="#cross-ref">Copernico</seg>, ma soprattutto nutrito
            della «<seg type="written" ana="#cogn">filosofia</seg> naturale» del <seg type="event-ref" ana="#hist">Rinascimento
-           italiano</seg> – <persName ana="#cross-ref">Cardano</persName>,
-           <persName ana="#cross-ref">Bruno</persName>, <persName ana="#cross-ref">Campanella</persName> –
-           <persName ana="#cross-ref">Cyrano</persName> è il primo <seg type="writer" ana="#interp">poeta</seg>
+           italiano</seg> – <seg type="person" ana="#cross-ref">Cardano</seg>,
+           <seg type="person" ana="#cross-ref">Bruno</seg>, <seg type="person" ana="#cross-ref">Campanella</seg> –
+           <seg type="person" ana="#cross-ref">Cyrano</seg> è il primo <seg type="writer" ana="#interp">poeta</seg>
            dell’atomismo nelle <seg type="written" ana="#cogn">letterature</seg> moderne.
            In pagine la cui ironia non fa velo a una vera commozione cosmica,
-           <persName ana="#cross-ref">Cyrano</persName> celebra l’unità di tutte le cose,
+           <seg type="person" ana="#cross-ref">Cyrano</seg> celebra l’unità di tutte le cose,
            inanimate o animate, la combinatoria di figure elementari che
            determina la varietà delle forme viventi, e soprattutto egli rende il
            senso della precarietà dei processi che le hanno create: cioè quanto
@@ -800,7 +810,7 @@
          </quote></cit></cit>
         </p>
         <p>
-           Per questa via <persName ana="#cross-ref">Cyrano</persName> arriva a proclamare la fraternità degli
+           Per questa via <seg type="person" ana="#cross-ref">Cyrano</seg> arriva a proclamare la fraternità degli
            uomini con i cavoli, e così immagina la protesta d’un cavolo che sta
            per essere tagliato:
          <cit><quote xml:lang="fr">
@@ -821,11 +831,11 @@
            come la lentezza della coscienza umana a uscire dal suo <foreign xml:lang="en">parochialism</foreign>
            antropocentrico può essere annullata in un istante dall’invenzione poetica. Tutto questo nel
            contesto d’un viaggio sulla <seg type="obj-sing" ana="#cogn">luna</seg>, dove
-           <persName ana="#cross-ref">Cyrano de Bergerac</persName> supera
-           per immaginazione i suoi più illustri predecessori, <persName ana="#cross-ref">Luciano di
-           Samosata</persName> e <persName ana="#cross-ref">Ludovico Ariosto</persName>.
-           Nella mia trattazione sulla leggerezza, <persName ana="#cross-ref">Cyrano</persName> figura
-           soprattutto per il modo in cui, prima di <persName ana="#cross-ref">Newton</persName>, egli
+           <seg type="person" ana="#cross-ref">Cyrano de Bergerac</seg> supera
+           per immaginazione i suoi più illustri predecessori, <seg type="person" ana="#cross-ref">Luciano di
+           Samosata</seg> e <seg type="person" ana="#cross-ref">Ludovico Ariosto</seg>.
+           Nella mia trattazione sulla leggerezza, <seg type="person" ana="#cross-ref">Cyrano</seg> figura
+           soprattutto per il modo in cui, prima di <seg type="person" ana="#cross-ref">Newton</seg>, egli
            ha sentito il problema della gravitazione universale; o meglio, è il
            problema di sottrarsi alla forza di gravità che stimola talmente la sua
            fantasia da fargli inventare tutta una serie di sistemi per salire sulla
@@ -836,9 +846,9 @@
         </p>
         <p>
            Quanto al sistema della calamita, sarà sviluppato e perfezionato
-           da <persName ana="#cross-ref">Jonathan Swift</persName> per sostenere in
+           da <seg type="person" ana="#cross-ref">Jonathan Swift</seg> per sostenere in
            aria l’isola volante di Laputa. È un momento, quello dell’apparizione di Laputa in volo,
-           in cui le due ossessioni di <persName ana="#cross-ref">Swift</persName> sembra si
+           in cui le due ossessioni di <seg type="person" ana="#cross-ref">Swift</seg> sembra si
            annullino in un magico equilibrio: dico l’astrazione incorporea del razionalismo
            contro il quale egli dirige la sua satira, e il peso materiale della corporeità.
 
@@ -856,15 +866,15 @@
          </quote></cit></cit>
         </p>
         <p>
-           <persName ana="#cross-ref">Swift</persName> è contemporaneo e avversario
-           di <persName ana="#cross-ref">Newton</persName>. <persName ana="#cross-ref">Voltaire</persName> è un
-           ammiratore di <persName ana="#cross-ref">Newton</persName>, e immagina un gigante, Micromégas, che
-           all’opposto di quelli di <persName ana="#cross-ref">Swift</persName>, è definito non dalla sua corporeità ma
+           <seg type="person" ana="#cross-ref">Swift</seg> è contemporaneo e avversario
+           di <seg type="person" ana="#cross-ref">Newton</seg>. <seg type="person" ana="#cross-ref">Voltaire</seg> è un
+           ammiratore di <seg type="person" ana="#cross-ref">Newton</seg>, e immagina un gigante, Micromégas, che
+           all’opposto di quelli di <seg type="person" ana="#cross-ref">Swift</seg>, è definito non dalla sua corporeità ma
            da dimensioni espresse in cifre, da proprietà spaziali e temporali
            enunciate nei termini rigorosi e impassibili dei trattati scientifici. In
            virtù di questa logica e di questo stile, Micromégas riesce a viaggiare
            nello spazio da Sirio a Saturno alla Terra. Si direbbe che nelle teorie
-           di <persName ana="#cross-ref">Newton</persName> ciò che colpisce l’immaginazione letteraria non sia il
+           di <seg type="person" ana="#cross-ref">Newton</seg> ciò che colpisce l’immaginazione letteraria non sia il
            condizionamento d’ogni cosa e persona alla fatalità del proprio peso,
            bensì l’equilibrio delle forze che permette ai corpi celesti di librarsi
            nello spazio.
@@ -872,7 +882,7 @@
         <p>
            L’immaginazione del <date ana="#hist">secolo XVIII</date> è ricca di figure sospese per
            aria. Non per nulla agli inizi del secolo la traduzione francese delle
-           <title ana="#cross-ref">Mille e una Notte</title> di <persName ana="#cross-ref">Antoine Galland</persName>
+           <title ana="#cross-ref">Mille e una Notte</title> di <seg type="person" ana="#cross-ref">Antoine Galland</seg>
            aveva aperto alla fantasia occidentale gli orizzonti del meraviglioso orientale:
            tappeti volanti, cavalli volanti, geni che escono da lampade.
         </p>
@@ -881,7 +891,7 @@
            <date ana="#hist">secolo XVIII</date> conoscerà il culmine col volo del Barone di Munchausen
            su una palla di cannone, immagine che nella nostra memoria si è
            identificata definitivamente con l’illustrazione che è il capolavoro di
-           <persName ana="#cross-ref">Gustave Doré</persName>. <title ana="#cross-ref">Le avventure di Munchausen</title>,
+           <seg type="person" ana="#cross-ref">Gustave Doré</seg>. <title ana="#cross-ref">Le avventure di Munchausen</title>,
            che come le <title ana="#cross-ref">Mille e una Notte</title> non si sa se abbiano avuto un autore,
            molti autori o nessuno, sono una continua sfida alla legge della gravitazione: il Barone è
            portato in volo dalle anatre, solleva se stesso e il cavallo tirandosi su
@@ -891,16 +901,16 @@
         <p>
            Queste immagini della <seg type="written" ana="#cogn">letteratura</seg> popolare, insieme a quelle che
            abbiamo visto della <seg type="written" ana="#cogn">letteratura</seg> colta, accompagnano la fortuna
-           letteraria delle teorie di <persName ana="#cross-ref">Newton</persName>.
-           <persName ana="#cross-ref">Giacomo Leopardi</persName> a quindici anni
+           letteraria delle teorie di <seg type="person" ana="#cross-ref">Newton</seg>.
+           <seg type="person" ana="#cross-ref">Giacomo Leopardi</seg> a quindici anni
            scrive una storia dell’astronomia di straordinaria erudizione, in cui
            tra l’altro compendia le teorie newtoniane. La contemplazione del
-           cielo notturno che ispirerà a <persName ana="#cross-ref">Leopardi</persName> i suoi versi più belli non era
-           solo un motivo lirico; quando parlava della luna <persName ana="#cross-ref">Leopardi</persName> sapeva
+           cielo notturno che ispirerà a <seg type="person" ana="#cross-ref">Leopardi</seg> i suoi versi più belli non era
+           solo un motivo lirico; quando parlava della luna <seg type="person" ana="#cross-ref">Leopardi</seg> sapeva
            esattamente di cosa parlava.
         </p>
         <p>
-           <persName ana="#cross-ref">Leopardi</persName>, nel suo ininterrotto ragionamento sull’insostenibile
+           <seg type="person" ana="#cross-ref">Leopardi</seg>, nel suo ininterrotto ragionamento sull’insostenibile
            peso del vivere, dà alla felicità irraggiungibile immagini di leggerezza:
            <seg type="obj-sign" ana="#cogn">gli uccelli, una voce femminile che canta da una finestra,
            la trasparenza dell’aria</seg>, e soprattutto la <seg type="obj-sign" ana="#cogn">luna</seg>.
@@ -913,8 +923,8 @@
            dedicare questa conferenza tutta alla <seg type="obj-sign" ana="#cogn">luna</seg>: seguire le apparizioni
            della <seg type="obj-sign" ana="#cogn">luna</seg> nelle <seg type="written" ana="#cogn">letterature</seg>
            d’ogni tempo e paese. Poi ho deciso che la <seg type="obj-sign" ana="#cogn">luna</seg> andava lasciata
-           tutta a <persName ana="#cross-ref">Leopardi</persName>.
-           Perché il miracolo di <persName ana="#cross-ref">Leopardi</persName>
+           tutta a <seg type="person" ana="#cross-ref">Leopardi</seg>.
+           Perché il miracolo di <seg type="person" ana="#cross-ref">Leopardi</seg>
            è stato di togliere al linguaggio ogni peso fino a farlo assomigliare
            alla luce lunare. Le numerose apparizioni della <seg type="obj-sign" ana="#cogn">luna</seg>
            nelle sue <seg type="written" ana="#cogn">poesie</seg>
@@ -952,22 +962,24 @@
         <p>
            Molti fili si sono intrecciati nel mio discorso? Quale filo <seg type="verb" ana="#interp">devo</seg>
            tirare per trovarmi tra le mani la conclusione? C’è il filo che collega la
-           <seg type="obj-sign" ana="#cogn">luna</seg>, <persName ana="#cross-ref">Leopardi</persName>,
-           <persName ana="#cross-ref">Newton</persName>, la gravitazione e la levitazione... C’è il filo
-           di <persName ana="#cross-ref">Lucrezio</persName>, l’atomismo, la <seg type="written" ana="#cogn">filosofia</seg>
-           dell’amore di <persName ana="#cross-ref">Cavalcanti</persName>, la
-           magia rinascimentale, <persName ana="#cross-ref">Cyrano</persName>...
+           <seg type="obj-sign" ana="#cogn">luna</seg>, <seg type="person" ana="#cross-ref">Leopardi</seg>,
+           <seg type="person" ana="#cross-ref">Newton</seg>, la gravitazione e la levitazione... C’è il filo
+           di <seg type="person" ana="#cross-ref">Lucrezio</seg>, l’atomismo, la <seg type="written" ana="#cogn">filosofia</seg>
+           dell’amore di <seg type="person" ana="#cross-ref">Cavalcanti</seg>, la
+           magia rinascimentale, <seg type="person" ana="#cross-ref">Cyrano</seg>...
            Poi <seg type="written-unwritten" ana="cogn">c’è il filo della scrittura come
            metafora della sostanza pulviscolare del mondo</seg>:
-           già per <persName ana="#cross-ref">Lucrezio</persName> le
+           già per <seg type="person" ana="#cross-ref">Lucrezio</seg> le
            lettere erano atomi in continuo movimento che con le loro
            permutazioni creavano le parole e i suoni più diversi; idea che fu
            ripresa da una lunga tradizione di pensatori per cui <seg type="written-unwritten" ana="cogn">
            i segreti del mondo erano contenuti nella combinatoria dei segni della scrittura</seg>:
-           l’<title ana="#cross-ref">Ars Magna</title> di <persName ana="#cross-ref">Ramón Llull</persName>,
-           la Kabbala dei rabbini spagnoli e quella di <persName ana="#cross-ref">Pico della Mirandola</persName>...
-           Anche <persName ana="#cross-ref">Galileo</persName> vedrà nell’alfabeto il
-           modello d’ogni combinatoria d’unità minime... Poi <persName ana="#cross-ref">Leibniz</persName>...
+           l’<title ana="#cross-ref">Ars Magna</title> di <seg type="person" ana="#cross-ref">Ramón Llull</seg>,
+           la Kabbala dei rabbini spagnoli e quella di <seg type="person" ana="#cross-ref">Pico della Mirandola</seg>...
+           Anche <seg type="person" ana="#cross-ref">Galileo</seg> vedrà nell’alfabeto il
+           modello d’ogni combinatoria d’unità minime... Poi <seg type="person" ana="#cross-ref">Leibniz</seg>...
+        </p>
+        <p>
            <seg type="verb" ana="#interp">Devo</seg> imboccare questa strada? Ma la conclusione
            che <seg type="pron" ana="#cogn">mi</seg> attende non suonerà troppo scontata?
            <seg type="written-unwritten" ana="cogn">La scrittura</seg> modello d’ogni processo
@@ -980,16 +992,20 @@
         <p>
            Resta ancora un filo, quello che <seg type="verb" ana="#interp">avevo cominciato</seg> a svolgere
            all’inizio: la <seg type="written" ana="#cogn">letteratura</seg> come funzione esistenziale, la ricerca della
-           leggerezza come reazione al peso di vivere. Forse anche <persName ana="#cross-ref">Lucrezio</persName>,
-           anche <persName ana="#cross-ref">Ovidio</persName> erano mossi da questo bisogno:
-           <persName ana="#cross-ref">Lucrezio</persName> che cercava – o credeva di cercare – l’impassibilità epicurea;
-           <persName ana="#cross-ref">Ovidio</persName> che cercava – o credeva di cercare – la resurrezione
-           in altre vite secondo <persName ana="#cross-ref">Pitagora</persName>.
+           leggerezza come reazione al peso di vivere. Forse anche <seg type="person" ana="#cross-ref">Lucrezio</seg>,
+           anche <seg type="person" ana="#cross-ref">Ovidio</seg> erano mossi da questo bisogno:
+           <seg type="person" ana="#cross-ref">Lucrezio</seg> che cercava – o credeva di cercare – l’impassibilità epicurea;
+           <seg type="person" ana="#cross-ref">Ovidio</seg> che cercava – o credeva di cercare – la resurrezione
+           in altre vite secondo <seg type="person" ana="#cross-ref">Pitagora</seg>.
+        </p>
+        <p>
            Abituato come <seg type="verb" ana="#interp">sono</seg> a considerare la
            <seg type="written" ana="#cogn">letteratura</seg> come ricerca di conoscenza,
            per <seg type="verb" ana="#interp">muovermi</seg> sul terreno esistenziale
            <seg type="verb" ana="#interp">ho bisogno</seg> di considerarlo esteso all’antropologia,
            all’etnologia, alla mitologia.
+        </p>
+        <p>
            Alla precarietà dell’esistenza della tribù, – siccità, malattie, influssi
            maligni – lo sciamano rispondeva annullando il peso del suo corpo,
            trasportandosi in volo in un altro <seg type="unwritten" ana="#cogn">mondo</seg>,
@@ -1003,14 +1019,16 @@
            diciamo pure del vissuto. <seg type="verb" ana="#interp">Credo</seg> che sia una
            costante antropologica questo nesso tra levitazione desiderata e privazione sofferta. È
            questo dispositivo antropologico che la <seg type="written" ana="#cogn">letteratura</seg> perpetua.
+        </p>
+        <p>
            Prima, la <seg type="written" ana="#cogn">letteratura</seg> orale: nelle fiabe il volo in un altro
            <seg type="unwritten" ana="#cogn">mondo</seg> è una situazione che si ripete molto spesso.
-           Tra le «funzioni» catalogate da <persName ana="#cross-ref">Propp</persName> nella
+           Tra le «funzioni» catalogate da <seg type="person" ana="#cross-ref">Propp</seg> nella
            <title ana="#cross-ref">Morfologia della fiaba</title> esso è uno dei modi
            del <quote xml:lang="it">«trasferimento dell’eroe»</quote> così definito:
            <quote xml:lang="it">«Di solito l’oggetto delle ricerche si trova in un altro “diverso” reame, che può essere situato
            molto lontano in linea orizzontale o a grande altezza o profondità in
-           senso verticale»</quote>. <persName ana="#cross-ref">Propp</persName> passa in seguito a elencare vari esempi del
+           senso verticale»</quote>. <seg type="person" ana="#cross-ref">Propp</seg> passa in seguito a elencare vari esempi del
            caso <quote xml:lang="it">«L’eroe vola attraverso l’aria»</quote>:
            <quote xml:lang="it">«a dorso di cavallo o d’uccello, in
            sembianza d’uccello, su una nave volante, su un tappeto volante,
@@ -1026,7 +1044,7 @@
         </p>
         <p>
            <seg type="verb" ana="#interp">Vorrei</seg> chiudere questa conferenza ricordando un
-           <seg type="written" ana="#cogn">racconto</seg> di <persName ana="#cross-ref">Kafka</persName>,
+           <seg type="written" ana="#cogn">racconto</seg> di <seg type="person" ana="#cross-ref">Kafka</seg>,
            <title xml:lang="de">Der Kübelreiter</title> (<title type="translation" xml:lang="it">Il cavaliere del secchio</title>).
            È un breve <seg type="written" ana="#cogn">racconto</seg> in prima persona,
            scritto nel <date ana="#cross-ref">1917</date> e il suo punto di partenza è
@@ -1045,12 +1063,12 @@
            può pagare subito. La moglie del carbonaio si slega il grembiule e
            scaccia l’intruso come caccerebbe una mosca. Il secchio è così leggero
            che vola via col suo cavaliere, fino a perdersi oltre le
-           <placeName ana="#cross-ref">Montagne di Ghiaccio</placeName>.
+           <seg type="place" ana="#cross-ref">Montagne di Ghiaccio</seg>.
         </p>
         <p>
            Molti dei <seg type="written" ana="#cogn">racconti</seg> brevi di
-           <persName ana="#cross-ref">Kafka</persName> sono misteriosi e questo lo è
-           particolarmente. Forse <persName ana="#cross-ref">Kafka</persName> voleva solo
+           <seg type="person" ana="#cross-ref">Kafka</seg> sono misteriosi e questo lo è
+           particolarmente. Forse <seg type="person" ana="#cross-ref">Kafka</seg> voleva solo
            <seg type="verb" ana="#interp">raccontarci</seg> che uscire alla
            ricerca d’un po’ di carbone, in una fredda notte del tempo di guerra,
            si trasforma in <foreign xml:lang="fr">quête</foreign> di cavaliere errante,
@@ -1069,9 +1087,9 @@
            volare nel regno in cui ogni mancanza sarà magicamente risarcita.
            <seg type="verb" ana="#interp">Avevo parlato</seg> delle streghe che volavano su umili arnesi domestici
            come può essere un secchio. Ma l’eroe di questo <seg type="written" ana="#cogn">racconto</seg>
-           di <persName ana="#cross-ref">Kafka</persName> non sembra dotato di
+           di <seg type="person" ana="#cross-ref">Kafka</seg> non sembra dotato di
            poteri sciamanici né stregoneschi; né il regno al di là delle
-           <placeName ana="#cross-ref">Montagne di Ghiaccio</placeName> sembra quello in cui il
+           <seg type="place" ana="#cross-ref">Montagne di Ghiaccio</seg> sembra quello in cui il
            <seg type="obj-sign" ana="#cogn">secchio vuoto</seg> troverà di che riempirsi.
            Tanto più che se fosse pieno non permetterebbe di volare. Così, a cavallo del nostro secchio,
            <seg type="verb" ana="#interp">ci affacceremo</seg> al <seg type="time-ref" ana="#hist">nuovo millennio</seg>
