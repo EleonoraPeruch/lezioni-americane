@@ -17,11 +17,11 @@ declare function local:countInterp($node as node()) {
 };
 
 declare function local:countCp($node as node()) {
-    count($node//tei:persName[@ana='#cross-ref'])
+    count($node//tei:seg[@type='person' and @ana='#cross-ref'])
 };
 
 declare function local:countHp($node as node()) {
-    count($node//tei:persName[@ana='#hist'])
+    count($node//tei:seg[type='person' and @ana='#hist'])
 };
 
 declare function local:listTitle($nodes as node()*) as node()*  {
@@ -75,7 +75,7 @@ return <html>
                     <div
                         class="col-sm-8"
                         style="margin-top: 3em; padding-right: 4em;">
-                       <p>List of quotations from cross-references:</p>
+                       <p><b>List of quotations from cross-references:</b></p>
                         <ul>
                         {
                             let $teiCit := $root//tei:quote
@@ -88,7 +88,7 @@ return <html>
                         class="col-sm-4"
                         style="margin-top: 3em;">
 
-                        <p>Overview of the interpretative fields:</p>
+                        <p><b>Overview of the interpretative fields:</b></p>
                         <ul>
                           <li>Historical elements: {local:countHist($root)}</li>
                           <li>Cross-referenced elements: {local:countCrossref($root)}</li>
@@ -96,7 +96,7 @@ return <html>
                           <li>Interpretative elements: {local:countInterp($root)}</li>
                         </ul>
 
-                        <p>Overview of the languages used:</p>
+                        <p><b>Overview of the languages used:</b></p>
                         <ul>
                           <li>Italian: {local:countIt($root)}</li>
                           <li>Vernacular Italian: {local:countVer($root)}</li>
@@ -106,13 +106,13 @@ return <html>
                           <li>German: {local:countGer($root)}</li>
                         </ul>
 
-                        <p>Type of people mentioned:</p>
+                        <p><b>Type of people mentioned:</b></p>
                         <ul>
                           <li>Cross-referenced people: {local:countCp($root)}</li>
                           <li>Historical people: {local:countHp($root)}</li>
                         </ul>
 
-                        <p>List of titles of the works referenced in the lecture:</p>
+                        <p><b>List of titles of the works referenced in the lecture:</b></p>
                         <ul>
                         {
                             let $teiTitle := $root//tei:title[@ana='#cross-ref']
