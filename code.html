@@ -66,7 +66,8 @@
                             <p class="mbr-section-text  align-center mbr-fonts-style display-7">The XML encoding of the text of the first lecture.<br/>
                               Check the original file <a href="scripts/leggerezza.xml">here</a>.</p>
                             <pre>
-                            <code class="xml">
+                            <!--<code class="xml">-->
+                            <xmp>
 
                                 <?xml version="1.0" encoding="UTF-8"?>
                                 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -1160,7 +1161,8 @@
                                   </text>
                                 </TEI>
 
-                              </code>
+                              <!--</code>-->
+                            </xmp>
                             </pre>
                         </div>
 
@@ -1327,8 +1329,9 @@
                                   <xsl:variable name="people-h" select="count(//tei:persName[@ana='#hist'])"/>
 
                                 </xsl:stylesheet>
-                              </xmp>
+
                               <!--</code>-->
+                              </xmp>
                             </pre>
                         </div>
 
@@ -1348,7 +1351,8 @@
                             <p class="mbr-section-text  align-center mbr-fonts-style display-7">XQuery has been used to extract some information from our XML file.<br/>
                               Check the original file <a href="scripts/leggerezza.xquery">here</a>.</p>
                             <pre>
-                            <code>
+                            <!--<code>-->
+                            <xmp>
                                 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
                                 declare function local:countHist($node as node()) {
@@ -1476,7 +1480,8 @@
                                              </body>
                                        </html>
 
-                              </code>
+                              <!--</code>-->
+                            </xmp>
                             </pre>
                         </div>
 
@@ -1543,8 +1548,9 @@
                                         var values = searchvalues.join("|");
                                         if ($.trim(values) != '') {
                                             return initialString.replace(new RegExp(values, 'gi'), function (x) {
-                                                // The gi modifier is used to do a case insensitive search of all occurrences of a regular expression in a string.
-                                                return "<mark style='background-color:#C82A27;'>" + x + "</mark>";
+                                                // The gi modifier is used to do a case insensitive search
+                                                // of all occurrences of a regular expression in a string.
+                                                return "&lt;mark style='background-color:#C82A27;'&gt;" + x + "&lt;/mark&gt;";
                                             });
                                         }
                                     },
