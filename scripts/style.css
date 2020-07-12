@@ -22,11 +22,15 @@ seg[ana^="#cogn"] {
   color: ;
 }
 
-#commands {
-  display: block;
-}
-
 pre {
   font-size: 12px;
   width: 100%;
+}
+
+button {
+  border-radius: 12px;
+  margin: 2px;
+}
+
+#commands {
 }
