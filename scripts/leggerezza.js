@@ -51,22 +51,22 @@ var Common = {
 
     // highlight all words with attribute ana="#interp"
     interpExample: function () {
-        $("#interp").css("color", "#646A90");
+        $("#interp").css("background-color", "#646A90");
         var searchvalues = $("[ana='#interp']").css("background-color", "#646A90");
     },
 
     histExample: function () {
-        $("#hist").css("color", "#E1CFCB");
+        $("#hist").css("background-color", "#E1CFCB");
         var searchvalues = $("[ana='#hist']").css("background-color", "#E1CFCB");
     },
 
     crossExample: function () {
-        $("#cross").css("color", "#F0C442");
+        $("#cross").css("background-color", "#F0C442");
         var searchvalues = $("[ana='#cross-ref']").css("background-color", "#F0C442");
     },
 
     cognExample: function () {
-        $("#cogn").css("color", "#A6C4CF");
+        $("#cogn").css("background-color", "#A6C4CF");
         var searchvalues = $("[ana='#cogn']").css("background-color", "#A6C4CF");
     },
 

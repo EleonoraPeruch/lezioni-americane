@@ -32,7 +32,28 @@ button {
   margin: 2px;
 }
 
+button:hover {
+  border-radius: 12px;
+}
+
+@media screen and (min-width: 750px) {
 #commands {
   position: fixed;
   z-index: 10;
+}
+
+#content {
+  padding-left:350px
+}
+}
+
+@media screen and (max-width: 750px) {
+#commands {
+  padding-left: 50px;
+  z-index: 10;
+}
+
+pre {
+  font-size: 8px;
+}
 }
