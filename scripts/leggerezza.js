@@ -124,11 +124,11 @@ var Common = {
         var crossper = (totcross*100)/tot;
         var otherper = (totother*100)/tot;
 
-        document.getElementById("hper").innerHTML = "History: "+Math.round(histper)+"%";
-        document.getElementById("iper").innerHTML = "Interpretation: "+Math.round(interper)+"%";
-        document.getElementById("cper").innerHTML = "Cross-referencing: "+Math.round(crossper)+"%";
-        document.getElementById("gper").innerHTML = "Cognition: "+Math.round(cognper)+"%";
-        document.getElementById("oper").innerHTML = "Other: "+Math.round(otherper)+"%";
+        document.getElementById("hper").innerHTML = "History: "+Math.round(histper*100)/100+"%";
+        document.getElementById("iper").innerHTML = "Interpretation: "+Math.round(interper*100)/100+"%";
+        document.getElementById("cper").innerHTML = "Cross-referencing: "+Math.round(crossper*100)/100+"%";
+        document.getElementById("gper").innerHTML = "Cognition: "+Math.round(cognper*100)/100+"%";
+        document.getElementById("oper").innerHTML = "Other: "+Math.round(otherper*100)/100+"%";
     },
 };
 
