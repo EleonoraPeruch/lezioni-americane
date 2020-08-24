@@ -129,7 +129,7 @@
   </xsl:template>-->
 
   <xsl:template match="//tei:title[@ana='#cross-ref']">
-    <title ana="#cross-ref"><em><xsl:apply-templates/></em></title>
+    <seg ana="#cross-ref"><em><xsl:apply-templates/></em></seg>
   </xsl:template>
 
   <xsl:template match="//tei:foreign">
