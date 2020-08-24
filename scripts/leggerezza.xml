@@ -64,7 +64,8 @@
          <p>
            In questa conferenza <seg type="verb" ana="#interp">cercherò</seg>
            di spiegare – a me stesso e a voi – perché <seg type="verb" ana="#interp">sono stato portato</seg>
-           a considerare la leggerezza un valore anziché un difetto; quali sono gli esempi tra le opere del passato in
+           a considerare la leggerezza un valore anziché un difetto; quali sono gli esempi tra le opere del
+           <seg type="time-ref" ana="#hist">passato</seg> in
            cui <seg type="verb" ana="#interp">riconosco</seg> il mio ideale di leggerezza;
            come <seg type="verb" ana="#interp">situo</seg> questo valore
            nel <seg type="time-ref" ana="#hist">presente</seg> e come lo
@@ -103,17 +104,18 @@
            L’unico eroe capace di tagliare la <seg type="obj-sign" ana="#cogn">testa della Medusa</seg> è Perseo, che
            vola coi sandali alati, Perseo che non rivolge il suo sguardo sul volto
            della Gorgone ma solo sulla sua immagine riflessa nello scudo di
-           bronzo. Ecco che Perseo mi viene in soccorso anche in questo
-           momento, mentre mi sentivo già catturare dalla morsa di pietra,
-           come mi succede ogni volta che tento una rievocazione storico-
+           bronzo. Ecco che Perseo <seg type="pron" ana="#interp">mi</seg> viene in soccorso anche in questo
+           momento, mentre <seg type="pron" ana="#interp">mi</seg> sentivo già catturare dalla morsa di pietra,
+           come <seg type="pron" ana="#interp">mi</seg> succede ogni volta che
+           <seg type="verb" ana="#interp">tento</seg> una rievocazione storico-
            autobiografica. Meglio lasciare che il mio discorso si componga con
            le immagini della mitologia. Per tagliare la <seg type="obj-sign" ana="#cogn">testa di Medusa</seg> senza
            lasciarsi pietrificare, Perseo si sostiene su ciò che vi è di più leggero, i
            venti e le nuvole; e spinge il suo sguardo su ciò che può rivelarglisi
            solo in una visione indiretta, in un’immagine catturata da uno
-           specchio. Subito sento la tentazione di trovare in questo mito
+           specchio. Subito  <seg type="verb" ana="#interp">sento</seg> la tentazione di trovare in questo mito
            un’<seg type="written-unwritten" ana="#cogn">allegoria del rapporto del poeta col mondo, una lezione del
-           metodo da seguire scrivendo</seg>. Ma so che ogni interpretazione
+           metodo da seguire scrivendo</seg>. Ma  <seg type="verb" ana="#interp">so</seg> che ogni interpretazione
            impoverisce il mito e lo soffoca: coi miti non bisogna aver fretta; è
            meglio lasciarli depositare nella memoria, fermarsi a meditare su
            ogni dettaglio, ragionarci sopra senza uscire dal loro linguaggio di
@@ -138,8 +140,8 @@
            sanguinosa diventa un’arma invincibile nella mano dell’eroe:
            un’arma che egli usa solo in casi estremi e solo contro chi merita il
            castigo di diventare la statua di se stesso. Qui certo il mito vuol
-           dirmi qualcosa, qualcosa che è implicito nelle immagini e che non si
-           può spiegare altrimenti. Perseo riesce a padroneggiare quel volto
+           <seg type="pron" ana="#interp">dirmi</seg> qualcosa, qualcosa che è implicito
+           nelle immagini e che non si può spiegare altrimenti. Perseo riesce a padroneggiare quel volto
            tremendo tenendolo nascosto, come prima l’aveva vinto
            guardandolo nello specchio. È sempre in un rifiuto della visione
            diretta che sta la forza di Perseo, ma non in un rifiuto della
@@ -148,7 +150,7 @@
            porta con sé, che assume come proprio fardello.
         </p>
         <p>
-           Sul rapporto tra Perseo e la Medusa possiamo apprendere
+           Sul rapporto tra Perseo e la Medusa <seg type="verb" ana="#interp">possiamo</seg> apprendere
            qualcosa di più leggendo <seg type="person" ana="#cross-ref">Ovidio</seg>
            nelle <title ana="#cross-ref">Metamorfosi</title>. Perseo ha vinto
            una nuova battaglia, ha massacrato a colpi di spada un mostro

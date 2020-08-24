@@ -128,8 +128,8 @@
     <placeName><xsl:apply-templates/></placeName>
   </xsl:template>-->
 
-  <xsl:template match="//tei:title">
-    <title><em><xsl:apply-templates/></em></title>
+  <xsl:template match="//tei:title[@ana='#cross-ref']">
+    <title ana="#cross-ref"><em><xsl:apply-templates/></em></title>
   </xsl:template>
 
   <xsl:template match="//tei:foreign">
