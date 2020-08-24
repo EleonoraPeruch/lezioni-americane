@@ -199,7 +199,8 @@
            laggiù non era quello d’un fiammifero»</quote>.
         </p>
         <p>
-           Ecco che per riuscire a parlare della <seg type="time-ref" ana="#hist">nostra epoca</seg>, ho dovuto fare
+           Ecco che per riuscire a parlare della <seg type="time-ref" ana="#hist">nostra epoca</seg>,
+           <seg type="verb" ana="#interp">ho dovuto fare</seg>
            un lungo giro, evocare la fragile Medusa di <seg type="person" ana="#cross-ref">Ovidio</seg> e il bituminoso
            Lucifero di <seg type="person" ana="#cross-ref">Montale</seg>. È difficile per
            un <seg type="writer" ana="#interp">romanziere</seg> rappresentare la
@@ -231,8 +232,9 @@
            <seg type="unwritten" ana="#cogn">mondo</seg> con un’altra ottica, un’altra logica, altri metodi di conoscenza
            e di verifica. Le immagini di leggerezza che <seg type="pron" ana="#interp">io</seg>
            <seg type="verb" ana="#interp">cerco</seg> non devono
-           lasciarsi dissolvere come sogni dalla <seg type="unwritten" ana="#cogn">realtà</seg> del presente e del
-           futuro...
+           lasciarsi dissolvere come sogni dalla <seg type="unwritten" ana="#cogn">realtà</seg> del
+           <seg type="time-ref" ana="#hist">presente</seg> e del
+           <seg type="time-ref" ana="#hist">futuro</seg>...
         </p>
         <p>
            Nell’universo infinito della <seg type="written" ana="#cogn">letteratura</seg> s’aprono sempre altre vie
