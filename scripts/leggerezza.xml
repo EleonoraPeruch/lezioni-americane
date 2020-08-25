@@ -269,7 +269,7 @@
         <p>
            È legittimo estrapolare dal discorso delle scienze un’immagine del
            <seg type="unwritten" ana="#cogn">mondo</seg> che corrisponda ai miei desideri?
-           Se l’operazione che <seg type="verb" ana="#interp">sto tentando</seg> mi attrae,
+           Se l’operazione che <seg type="verb" ana="#interp">sto tentando</seg> <seg type="pron" ana="#interp">mi</seg> attrae,
            è perché <seg type="verb" ana="#interp">sento</seg> che essa potrebbe riannodarsi a un
            filo molto antico nella storia della <seg type="written" ana="#interp">poesia</seg>.
         </p>
