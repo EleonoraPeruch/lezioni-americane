@@ -356,8 +356,8 @@
       </div>
       <div type="part">
         <p>
-           Da quanto <seg type="verb" ana="#interp">ho detto</seg> fin qui mi pare che il
-           concetto di leggerezza cominci a precisarsi; spero innanzitutto d’aver dimostrato che esiste
+           Da quanto <seg type="verb" ana="#interp">ho detto</seg> fin qui <seg type="pron" ana="#interp">mi</seg> pare che il
+           concetto di leggerezza cominci a precisarsi; <seg type="verb" ana="#interp">spero</seg> innanzitutto d’aver dimostrato che esiste
            una leggerezza della pensosità, così come tutti <seg type="verb" ana="#interp">sappiamo</seg>
            che esiste una leggerezza della frivolezza; anzi, la leggerezza pensosa può far
            apparire la frivolezza come pesante e opaca.
@@ -376,8 +376,8 @@
            popolare tra loro, perché, benché fosse ricco ed elegante, non
            accettava mai di far baldoria con loro e perché la sua misteriosa
            <seg type="written">filosofia</seg> era sospettata d’empietà:
-        </p>
-        <p>
+
+          <cit><quote xml:lang="ver-it">
            Ora avvenne un giorno che, essendo Guido partito d’Orto San Michele e
            venutosene per lo Corso degli Adimari infino a San Giovanni, il quale spesse
            volte era suo cammino, essendo arche grandi di marmo, che oggi sono in Santa
@@ -393,6 +393,7 @@
            potete dire a casa vostra ciò che vi piace»; e posta la mano sopra una di quelle
            arche, che grandi erano, sì come colui che leggerissimo era, prese un salto e fusi
            gittato dall’altra parte, e sviluppatosi da loro se n’andò.
+         </quote></cit>
         </p>
       </div>
       <div type="part">
