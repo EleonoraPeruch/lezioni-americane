@@ -307,7 +307,7 @@
            accorgiamo mentre camminiamo (<bibl ana="#cross-ref">III, 381-390</bibl>).
         </p>
         <p>
-           Ho già citato le <title ana="#cross-ref">Metamorfosi</title>
+           <seg type="verb" ana="#interp">Ho già citato</seg> le <title ana="#cross-ref">Metamorfosi</title>
            d’<seg type="person" ana="#cross-ref">Ovidio</seg>, un altro <seg type="written" ana="#cogn">poema</seg>
            enciclopedico (scritto una cinquantina d’anni più tardi di quello di
            <seg type="person" ana="#cross-ref">Lucrezio</seg>) che parte, anziché
@@ -442,7 +442,7 @@
            sta scrivendo e dice: <quote xml:lang="ver-it">«Va tu, leggera e piana / dritt’a la donna mia»</quote>. In
            un’altra sono gli strumenti della <seg type="written" ana="#cogn">scrittura</seg> – penne e arnesi per far la
            punta alle penne – che prendono la parola: <quote xml:lang="ver-it">«Noi siàn le triste penne
-           isbigo ite, / le cesoiuzze e’l coltellin dolente...»</quote>
+           isbigottite, / le cesoiuzze e’l coltellin dolente...»</quote>
            In un <seg type="written" ana="#cogn">sonetto</seg> la
            parola «spirito» o «spiritello» compare in ogni verso: in un’evidente
            autoparodia, <seg type="person" ana="#cross-ref">Cavalcanti</seg> porta alle ultime conseguenze la sua
@@ -450,7 +450,7 @@
            complicato <seg type="written" ana="#cogn">racconto</seg> astratto in cui intervengono 14 «spiriti» ognuno
            con una diversa funzione. In un altro <seg type="written" ana="#cogn">sonetto</seg>, il corpo viene
            smembrato dalla sofferenza amorosa, ma continua a camminare
-           come un automa <quote xml:lang="ver-it">«fa o di rame o di pietra o di legno»</quote>. Già in un
+           come un automa <quote xml:lang="ver-it">«fatto di rame o di pietra o di legno»</quote>. Già in un
            <seg type="written" ana="#cogn">sonetto</seg> di <seg type="person" ana="#cross-ref">Guinizelli</seg>
            la pena amorosa trasformava il <seg type="writer" ana="#interp">poeta</seg> in una
            statua d’ottone: un’immagine molto concreta, che ha la forza proprio
@@ -514,7 +514,7 @@
            grave»</quote> <bibl>(Paradiso III , 123)</bibl>.
         </p>
         <p>
-           A questo punto dobbiamo <seg type="verb" ana="#interp">ricordarci</seg>
+           A questo punto <seg type="verb" ana="#interp">dobbiamo ricordarci</seg>
            che l’idea del <seg type="unwritten" ana="#cogn">mondo</seg> come
            costituito d’<seg type="obj-sing" ana="#cogn">atomi senza peso</seg>
            <seg type="pron" ana="#interp">ci</seg> colpisce perché <seg type="verb" ana="#interp">abbiamo</seg> esperienza
@@ -552,21 +552,22 @@
            la varietà dei suoi livelli e delle sue forme e dei suoi attributi, nel
            trasmettere il senso che il <seg type="unwritten" ana="#cogn">mondo</seg>
            è organizzato in un sistema, in un ordine, in una gerarchia dove tutto trova il suo posto. Forzando un
-           po’ la contrapposizione potrei dire che <seg type="person" ana="#cross-ref">Dante</seg> dà solidità corporea
+           po’ la contrapposizione <seg type="verb" ana="#interp">potrei dire</seg>
+           che <seg type="person" ana="#cross-ref">Dante</seg> dà solidità corporea
            anche alla più astratta speculazione intellettuale, mentre <seg type="person" ana="#cross-ref">Cavalcanti</seg>
            dissolve la concretezza dell’esperienza tangibile in versi dal ritmo
            scandito, sillabato, come se il pensiero si staccasse dall’oscurità in
            rapide scariche elettriche.
         </p>
         <p>
-           L’essermi soffermato su <seg type="person" ana="#cross-ref">Cavalcanti</seg>
-           <seg type="pron" ana="#interp">m</seg>’è servito a chiarire meglio
-           (almeno a me stesso) cosa intendo per «leggerezza». La leggerezza
+           L’<seg type="pron" ana="#interp">essermi</seg> soffermato su <seg type="person" ana="#cross-ref">Cavalcanti</seg>
+           <seg type="pron" ana="#interp">m</seg>’è servito a chiarire meglio (almeno <seg type="pron" ana="#interp">a me</seg>
+           stesso) cosa <seg type="verb" ana="#interp">intendo</seg> per «leggerezza». La leggerezza
            per <seg type="pron" ana="#interp">me</seg> si associa con la precisione e la determinazione,
            non con la vaghezza e l’abbandono al caso. <seg type="person" ana="#cross-ref">Paul Valéry</seg>
            ha detto: <quote xml:lang="fr">«Il faut être léger comme l’oiseau, et non comme la plume»</quote>.
-           Mi sono servito di <seg type="person" ana="#cross-ref">Cavalcanti</seg> per esemplificare la leggerezza in
-           almeno tre accezioni diverse:
+           <seg type="verb" ana="#interp">Mi sono servito</seg> di <seg type="person" ana="#cross-ref">Cavalcanti</seg>
+           per esemplificare la leggerezza in almeno tre accezioni diverse:
         </p>
         <p>
            1) un alleggerimento del linguaggio per cui i significati vengono
@@ -575,7 +576,8 @@
         </p>
         <p>
            Lascio a voi trovare altri esempi in questa direzione. Per esempio
-           <seg type="person" ana="#cross-ref">Emily Dickinson</seg> può fornircene quanti vogliamo:
+           <seg type="person" ana="#cross-ref">Emily Dickinson</seg> può 
+           <seg type="pron" ana="#interp">fornircene</seg> quanti <seg type="verb" ana="#interp">vogliamo</seg>:
 
           <cit><quote xml:lang="en">
            A sepal, petal, and a thorn<lb/>
