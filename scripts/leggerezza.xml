@@ -685,7 +685,8 @@
            che questa carrozza è <quote xml:lang="en">«drawn with a team of
            little atomies»</quote> <quote type="translation" xml:lang="it">
            [scarrozzata da un equipaggio d’atomi impalpabili]</quote>:
-           un dettaglio decisivo, mi sembra, che permette al sogno della Regina
+           un dettaglio decisivo, <seg type="pron" ana="#interp">mi</seg>
+           sembra, che permette al sogno della Regina
            Mab di fondere atomismo lucreziano, neoplatonismo rinascimentale
            e celtic-lore.
         </p>
@@ -717,7 +718,7 @@
            occulta del <seg type="event-ref" ana="#hist">Rinascimento</seg> e sui suoi
            echi nella <seg type="written" ana="#cogn">letteratura</seg>) spiega perché
            in <seg type="person" ana="#cross-ref">Shakespeare</seg> si possa trovare
-           l’esemplificazione più ricca del mio tema. E non sto pensando solo a
+           l’esemplificazione più ricca del mio tema. E <seg type="verb" ana="#interp">non sto pensando</seg> solo a
            Puck e a tutta la fantasmagoria del Dream, o a Ariel e a tutti coloro
            che <quote xml:lang="en">«are such stuff / As dreams are made on»
            </quote> <quote type="translation" xml:lang="it">[noi siamo della stessa
