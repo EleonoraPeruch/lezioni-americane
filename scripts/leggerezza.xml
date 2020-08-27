@@ -647,10 +647,10 @@
       <div type="part">
         <p>
            <seg type="verb" ana="#interp">Penso</seg> che con queste
-           indicazioni posso mettermi a sfogliare i libri
+           indicazioni <seg type="verb" ana="#interp">posso mettermi</seg> a sfogliare i libri
            della mia biblioteca in cerca d’esempi di leggerezza.
            In <seg type="person" ana="#cross-ref">Shakespeare</seg>
-           vado subito a cercare il punto in cui Mercutio entra in scena:
+           <seg type="verb" ana="#interp">vado</seg> subito a cercare il punto in cui Mercutio entra in scena:
            <quote xml:lang="en">«You are a lover; borrow Cupid’s wings / and soar with them above a
            common bound»</quote> <quote type="translation" xml:lang="it">
            [Tu sei innamorato: fatti prestare le ali da Cupido / e levati più alto d’un salto]
@@ -681,7 +681,8 @@
           </quote></cit></cit>
         </p>
         <p>
-           e non dimentichiamo che questa carrozza è <quote xml:lang="en">«drawn with a team of
+           e <seg type="verb" ana="#interp">non dimentichiamo</seg>
+           che questa carrozza è <quote xml:lang="en">«drawn with a team of
            little atomies»</quote> <quote type="translation" xml:lang="it">
            [scarrozzata da un equipaggio d’atomi impalpabili]</quote>:
            un dettaglio decisivo, mi sembra, che permette al sogno della Regina
@@ -692,8 +693,10 @@
            Anche il passo danzante di Mercutio <seg type="verb" ana="#interp">vorremmo</seg> che <seg type="pron" ana="#interp">ci</seg>
            accompagnasse fin oltre la soglia del <seg type="time-ref" ana="#hist">nuovo millennio</seg>.
            L’<seg type="time-ref" ana="#hist">epoca</seg> che fa
-           da sfondo a Romeo and Juliet ha molti aspetti non troppo dissimili da
-           quelli dei <seg type="time-ref" ana="#hist">nostri tempi</seg>: le città insanguinate da contese violente non
+           da sfondo a <title ana="#cross-ref">Romeo and Juliet</title>
+           ha molti aspetti non troppo dissimili da
+           quelli dei <seg type="time-ref" ana="#hist">nostri tempi</seg>:
+           le città insanguinate da contese violente non
            meno insensate di quelle tra Capuleti e Montecchi; la liberazione
            sessuale predicata dalla Nurse che non riesce a diventare modello
            d’amore universale; gli esperimenti di Friar Laurence condotti col
