@@ -742,7 +742,7 @@
         </p>
         <p>
            Melanconia e humour mescolati e inseparabili caratterizzano
-           l’accento del Principe di Danimarca che abbiamo imparato a
+           l’accento del Principe di Danimarca che <seg type="verb" ana="#interp">abbiamo imparato</seg> a
            riconoscere in tutti o quasi i drammi shakespeariani sulle labbra dei
            tanti avatars del personaggio Amleto. Uno di essi, Jaques in <title ana="#cross-ref">As You Like It</title>,
           così definisce la melanconia (<bibl>atto IV , scena I</bibl>):
@@ -767,9 +767,9 @@
         </p>
         <p>
            <seg type="verb" ana="#interp">Confesso</seg> che la tentazione di
-           costruirmi uno <seg type="person" ana="#cross-ref">Shakespeare</seg> seguace
+           <seg type="pron" ana="#interp">costruirmi</seg> uno <seg type="person" ana="#cross-ref">Shakespeare</seg> seguace
            dell’atomismo lucreziano è per <seg type="pron" ana="#interp">me</seg> molto forte,
-           ma so che sarebbe arbitrario. Il primo <seg type="writer" ana="#interp">scrittore</seg>
+           ma <seg type="verb" ana="#interp">so</seg> che sarebbe arbitrario. Il primo <seg type="writer" ana="#interp">scrittore</seg>
            del <seg type="unwritten" ana="#cogn">mondo</seg> moderno che fa esplicita
            professione d’una concezione atomistica dell’universo nella sua
            trasfigurazione fantastica, lo troviamo solo alcuni anni dopo, in
