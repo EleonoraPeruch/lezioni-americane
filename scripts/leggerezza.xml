@@ -575,8 +575,9 @@
            la stessa rarefatta consistenza.
         </p>
         <p>
-           Lascio a voi trovare altri esempi in questa direzione. Per esempio
-           <seg type="person" ana="#cross-ref">Emily Dickinson</seg> può 
+           <seg type="verb" ana="#interp">Lascio</seg> <seg type="pron" ana="#interp">a voi</seg>
+           trovare altri esempi in questa direzione. Per esempio
+           <seg type="person" ana="#cross-ref">Emily Dickinson</seg> può
            <seg type="pron" ana="#interp">fornircene</seg> quanti <seg type="verb" ana="#interp">vogliamo</seg>:
 
           <cit><quote xml:lang="en">
@@ -645,8 +646,10 @@
       </div>
       <div type="part">
         <p>
-           Penso che con queste indicazioni posso mettermi a sfogliare i libri
-           della mia biblioteca in cerca d’esempi di leggerezza. In <seg type="person" ana="#cross-ref">Shakespeare</seg>
+           <seg type="verb" ana="#interp">Penso</seg> che con queste
+           indicazioni posso mettermi a sfogliare i libri
+           della mia biblioteca in cerca d’esempi di leggerezza.
+           In <seg type="person" ana="#cross-ref">Shakespeare</seg>
            vado subito a cercare il punto in cui Mercutio entra in scena:
            <quote xml:lang="en">«You are a lover; borrow Cupid’s wings / and soar with them above a
            common bound»</quote> <quote type="translation" xml:lang="it">
