@@ -988,12 +988,12 @@
            di <seg type="person" ana="#cross-ref">Lucrezio</seg>, l’atomismo, la <seg type="written" ana="#cogn">filosofia</seg>
            dell’amore di <seg type="person" ana="#cross-ref">Cavalcanti</seg>, la
            magia rinascimentale, <seg type="person" ana="#cross-ref">Cyrano</seg>...
-           Poi <seg type="written-unwritten" ana="cogn">c’è il filo della scrittura come
+           Poi c’è il filo della <seg type="written-unwritten" ana="#cogn">scrittura come
            metafora della sostanza pulviscolare del mondo</seg>:
            già per <seg type="person" ana="#cross-ref">Lucrezio</seg> le
            lettere erano atomi in continuo movimento che con le loro
            permutazioni creavano le parole e i suoni più diversi; idea che fu
-           ripresa da una lunga tradizione di pensatori per cui <seg type="written-unwritten" ana="cogn">
+           ripresa da una lunga tradizione di pensatori per cui <seg type="written-unwritten" ana="#cogn">
            i segreti del mondo erano contenuti nella combinatoria dei segni della scrittura</seg>:
            l’<title ana="#cross-ref">Ars Magna</title> di <seg type="person" ana="#cross-ref">Ramón Llull</seg>,
            la Kabbala dei rabbini spagnoli e quella di <seg type="person" ana="#cross-ref">Pico della Mirandola</seg>...
@@ -1003,11 +1003,12 @@
         <p>
            <seg type="verb" ana="#interp">Devo</seg> imboccare questa strada? Ma la conclusione
            che <seg type="pron" ana="#cogn">mi</seg> attende non suonerà troppo scontata?
-           <seg type="written-unwritten" ana="cogn">La scrittura</seg> modello d’ogni processo
-           della realtà... anzi, unica >realtà conoscibile... anzi, unica realtà <foreign xml:lang="fr">tout-
+           <seg type="written-unwritten" ana="#cogn">La scrittura modello d’ogni processo
+           della realtà</seg>... anzi, unica realtà conoscibile... anzi, unica realtà <foreign xml:lang="fr">tout-
            court</foreign>... No, non <seg type="pron" ana="#interp">mi</seg> metterò su questo
            binario obbligato che <seg type="pron" ana="#interp">mi</seg> porta
-           troppo lontano dall’uso della parola come <seg type="pron" ana="#interp">io</seg> la intendo,
+           troppo lontano dall’uso della parola come <seg type="pron" ana="#interp">io</seg>
+           la <seg type="verb" ana="#interp">intendo</seg>,
            come inseguimento perpetuo delle cose, adeguamento alla loro varietà infinita.
         </p>
         <p>
