@@ -132,6 +132,10 @@
     <seg ana="#cross-ref"><em><xsl:apply-templates/></em></seg>
   </xsl:template>
 
+  <xsl:template match="//tei:date[@ana='#hist']">
+    <seg ana="#hist"><xsl:apply-templates/></seg>
+  </xsl:template>
+
   <xsl:template match="//tei:foreign">
     <em><xsl:apply-templates/></em>
   </xsl:template>

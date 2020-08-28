@@ -866,8 +866,9 @@
            da <seg type="person" ana="#cross-ref">Jonathan Swift</seg> per sostenere in
            aria l’isola volante di Laputa. È un momento, quello dell’apparizione di Laputa in volo,
            in cui le due ossessioni di <seg type="person" ana="#cross-ref">Swift</seg> sembra si
-           annullino in un magico equilibrio: dico l’astrazione incorporea del razionalismo
-           contro il quale egli dirige la sua satira, e il peso materiale della corporeità.
+           annullino in un magico equilibrio: <seg type="verb" ana="#interp">dico</seg>
+           l’astrazione incorporea del razionalismo contro il quale egli dirige
+           la sua satira, e il peso materiale della corporeità.
 
           <cit><quote xml:lang="en">
            ... and I could see the sides of it, encompassed with several gradations of
@@ -898,7 +899,7 @@
         </p>
         <p>
            L’immaginazione del <date ana="#hist">secolo XVIII</date> è ricca di figure sospese per
-           aria. Non per nulla agli inizi del secolo la traduzione francese delle
+           aria. Non per nulla agli inizi del <date ana="#hist">secolo</date> la traduzione francese delle
            <title ana="#cross-ref">Mille e una Notte</title> di <seg type="person" ana="#cross-ref">Antoine Galland</seg>
            aveva aperto alla fantasia occidentale gli orizzonti del meraviglioso orientale:
            tappeti volanti, cavalli volanti, geni che escono da lampade.
@@ -917,7 +918,8 @@
         </p>
         <p>
            Queste immagini della <seg type="written" ana="#cogn">letteratura</seg> popolare, insieme a quelle che
-           abbiamo visto della <seg type="written" ana="#cogn">letteratura</seg> colta, accompagnano la fortuna
+           <seg type="verb" ana="interp">abbiamo visto</seg> della <seg type="written" ana="#cogn">
+           letteratura</seg> colta, accompagnano la fortuna
            letteraria delle teorie di <seg type="person" ana="#cross-ref">Newton</seg>.
            <seg type="person" ana="#cross-ref">Giacomo Leopardi</seg> a quindici anni
            scrive una storia dell’astronomia di straordinaria erudizione, in cui
