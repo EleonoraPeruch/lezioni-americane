@@ -913,7 +913,7 @@
            che come le <title ana="#cross-ref">Mille e una Notte</title> non si sa se abbiano avuto un autore,
            molti autori o nessuno, sono una continua sfida alla legge della gravitazione: il Barone è
            portato in volo dalle anatre, solleva se stesso e il cavallo tirandosi su
-           per la coda della parrucca, scende dalla luna tenendosi a una corda
+           per la coda della parrucca, scende dalla <seg type="obj-sign" ana="#cogn">luna</seg> tenendosi a una corda
            più volte tagliata e riannodata durante la discesa.
         </p>
         <p>
@@ -925,7 +925,8 @@
            scrive una storia dell’astronomia di straordinaria erudizione, in cui
            tra l’altro compendia le teorie newtoniane. La contemplazione del
            cielo notturno che ispirerà a <seg type="person" ana="#cross-ref">Leopardi</seg> i suoi versi più belli non era
-           solo un motivo lirico; quando parlava della luna <seg type="person" ana="#cross-ref">Leopardi</seg> sapeva
+           solo un motivo lirico; quando parlava della <seg type="obj-sign" ana="#cogn">luna</seg>
+           <seg type="person" ana="#cross-ref">Leopardi</seg> sapeva
            esattamente di cosa parlava.
         </p>
         <p>
@@ -941,7 +942,8 @@
            calmo incantesimo. In un primo momento <seg type="verb" ana="interp">volevo</seg>
            dedicare questa conferenza tutta alla <seg type="obj-sign" ana="#cogn">luna</seg>: seguire le apparizioni
            della <seg type="obj-sign" ana="#cogn">luna</seg> nelle <seg type="written" ana="#cogn">letterature</seg>
-           d’ogni tempo e paese. Poi ho deciso che la <seg type="obj-sign" ana="#cogn">luna</seg> andava lasciata
+           d’ogni tempo e paese. Poi <seg type="verb" ana="interp">ho deciso</seg> che
+           la <seg type="obj-sign" ana="#cogn">luna</seg> andava lasciata
            tutta a <seg type="person" ana="#cross-ref">Leopardi</seg>.
            Perché il miracolo di <seg type="person" ana="#cross-ref">Leopardi</seg>
            è stato di togliere al linguaggio ogni peso fino a farlo assomigliare
@@ -980,7 +982,7 @@
       <div type="part">
         <p>
            Molti fili si sono intrecciati nel mio discorso? Quale filo <seg type="verb" ana="#interp">devo</seg>
-           tirare per trovarmi tra le mani la conclusione? C’è il filo che collega la
+           tirare per <seg type="pron" ana="#interp">trovarmi</seg> tra le mani la conclusione? C’è il filo che collega la
            <seg type="obj-sign" ana="#cogn">luna</seg>, <seg type="person" ana="#cross-ref">Leopardi</seg>,
            <seg type="person" ana="#cross-ref">Newton</seg>, la gravitazione e la levitazione... C’è il filo
            di <seg type="person" ana="#cross-ref">Lucrezio</seg>, l’atomismo, la <seg type="written" ana="#cogn">filosofia</seg>
