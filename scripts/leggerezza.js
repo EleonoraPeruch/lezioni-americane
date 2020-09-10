@@ -33,7 +33,6 @@ var Common = {
     highlightExample: function () {
         $("#highlight").hide();
         var searchvalues = $.trim($("#searchText").val()).split(" ");
-        // the trim() method is used to remove whitespace from both sides of a string:
         var initialString = $("#content").html();
         var response = Common.highlightAll(initialString, searchvalues);
         $("#content").html(response);
@@ -43,13 +42,11 @@ var Common = {
         var values = searchvalues.join("|");
         if ($.trim(values) != '') {
             return initialString.replace(new RegExp(values, 'gi'), function (x) {
-                // The gi modifier is used to do a case insensitive search of all occurrences of a regular expression in a string.
                 return "<mark style='background-color:#C82A27;'>" + x + "</mark>";
             });
         }
     },
 
-    // highlight all words with attribute ana="#interp"
     interpExample: function () {
         $("#interp").css("background-color", "#646A90");
         var searchvalues = $("[ana='#interp']").css("background-color", "#646A90");

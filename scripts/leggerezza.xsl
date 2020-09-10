@@ -13,25 +13,16 @@
         <link rel="stylesheet" type="text/css" href="style.css"></link>
         <meta charset="UTF-8"/>
         <title>Lezioni americane</title>
-        <!-- <script src="https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js"></script>
-        <script src="https://unpkg.com/mirador@beta/dist/mirador.min.js"></script> -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <!--<script src="Scripts/replaceAll/replaceall.js"></script>-->
         <script type="text/javascript" src="leggerezza.js"></script>
       </head>
       <body>
         <div class="container">
           <div class="row">
             <div class="col-sm-" style="margin-top: 3em">
-              <!-- <div id="openseadragon" style="width: 800px; height: 600px;"></div>
-              <div id="mirador" style="width: 400px; height: 600px;"></div> -->
               <div id="commands">
                 <div style="margin-bottom: 3em">
                   <input type="radio" name="select" value="highlight" checked="checked"/> Highlight<br/>
-                  <!--<input type="radio" name="select" value="cross"/> Cross-references<br/>
-                  <input type="radio" name="select" value="hist"/> Historical elements<br/>
-                  <input type="radio" name="select" value="interp"/> Interpretative level<br/>
-                  <input type="radio" name="select" value="cogn"/> Cognitive level<br/>-->
                   <input id="searchText" type="text" value="" placeholder="search text to highlight"/>
                   <button id="highlight">Highlight</button>
                   <button id="reset" onclick="window.location.reload();">Reset</button><br/>
@@ -44,7 +35,6 @@
                   <button id="levels">Levels predominance</button><br/>
                 </div>
                 <div style="margin-bottom: 3em">
-                  <!--<button id="percentage">Get percentages</button><br/>-->
                   <ul>
                     <li id="hper">History:</li>
                     <li id="cper">Cross-referencing:</li>
@@ -123,10 +113,6 @@
       <xsl:apply-templates/>
     </p>
   </xsl:template>
-
-  <!--<xsl:template match="//tei:placeName">
-    <placeName><xsl:apply-templates/></placeName>
-  </xsl:template>-->
 
   <xsl:template match="//tei:title[@ana='#cross-ref']">
     <seg ana="#cross-ref"><em><xsl:apply-templates/></em></seg>
